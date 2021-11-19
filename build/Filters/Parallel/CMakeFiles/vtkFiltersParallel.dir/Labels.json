@@ -1,0 +1,274 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkAggregateDataSetFilter.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkAngularPeriodicFilter.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkCollectGraph.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkCollectPolyData.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkCollectTable.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkCutMaterial.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkDuplicatePolyData.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkExtractCTHPart.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkExtractPolyDataPiece.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkExtractUnstructuredGridPiece.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkExtractUserDefinedPiece.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkIntegrateAttributes.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPassThroughFilter.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPCellDataToPointData.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPeriodicFilter.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPExtractDataArraysOverTime.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPExtractSelectedArraysOverTime.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPieceRequestFilter.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPieceScalars.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPipelineSize.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPKdTree.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPLinearExtrusionFilter.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPMaskPoints.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPOutlineCornerFilter.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPOutlineFilter.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPOutlineFilterInternals.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPPolyDataNormals.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPProbeFilter.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPProjectSphereFilter.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPReflectionFilter.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPResampleFilter.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkProcessIdScalars.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPSphereSource.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPYoungsMaterialInterface.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkRectilinearGridOutlineFilter.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkRemoveGhosts.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkTransmitPolyDataPiece.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkTransmitRectilinearGridPiece.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkTransmitStructuredDataPiece.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkTransmitStructuredGridPiece.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkTransmitUnstructuredGridPiece.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkUnstructuredGridGhostCellsGenerator.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPExtractArraysOverTime.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkAggregateDataSetFilter.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkAngularPeriodicFilter.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkCollectGraph.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkCollectPolyData.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkCollectTable.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkCutMaterial.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkDuplicatePolyData.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkExtractCTHPart.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkExtractPolyDataPiece.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkExtractUnstructuredGridPiece.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkExtractUserDefinedPiece.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkIntegrateAttributes.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPassThroughFilter.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPCellDataToPointData.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPeriodicFilter.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPExtractDataArraysOverTime.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPExtractSelectedArraysOverTime.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPieceRequestFilter.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPieceScalars.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPipelineSize.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPKdTree.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPLinearExtrusionFilter.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPMaskPoints.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPOutlineCornerFilter.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPOutlineFilter.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPOutlineFilterInternals.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPPolyDataNormals.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPProbeFilter.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPProjectSphereFilter.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPReflectionFilter.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPResampleFilter.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkProcessIdScalars.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPSphereSource.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPYoungsMaterialInterface.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkRectilinearGridOutlineFilter.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkRemoveGhosts.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkTransmitPolyDataPiece.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkTransmitRectilinearGridPiece.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkTransmitStructuredDataPiece.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkTransmitStructuredGridPiece.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkTransmitUnstructuredGridPiece.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkUnstructuredGridGhostCellsGenerator.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Parallel/vtkPExtractArraysOverTime.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/build/Filters/Parallel/vtkFiltersParallelModule.h"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"vtkFiltersParallel"
+		],
+		"name" : "vtkFiltersParallel"
+	}
+}

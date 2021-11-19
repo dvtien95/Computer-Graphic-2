@@ -1,0 +1,76 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/Parallel/vtkEnSightWriter.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/Parallel/vtkMultiBlockPLOT3DReader.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/Parallel/vtkMultiBlockPLOT3DReaderInternals.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/Parallel/vtkPlot3DMetaReader.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/Parallel/vtkPChacoReader.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/Parallel/vtkPDataSetReader.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/Parallel/vtkPDataSetWriter.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/Parallel/vtkPImageWriter.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/Parallel/vtkPOpenFOAMReader.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/Parallel/vtkPSLACReader.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/Parallel/vtkEnSightWriter.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/Parallel/vtkMultiBlockPLOT3DReader.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/Parallel/vtkMultiBlockPLOT3DReaderInternals.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/Parallel/vtkPlot3DMetaReader.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/Parallel/vtkPChacoReader.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/Parallel/vtkPDataSetReader.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/Parallel/vtkPDataSetWriter.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/Parallel/vtkPImageWriter.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/Parallel/vtkPOpenFOAMReader.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/Parallel/vtkPSLACReader.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/build/IO/Parallel/vtkIOParallelModule.h"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"vtkIOParallel"
+		],
+		"name" : "vtkIOParallel"
+	}
+}

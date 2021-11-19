@@ -1,0 +1,64 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Math/vtkImageDivergence.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Math/vtkImageDotProduct.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Math/vtkImageLogarithmicScale.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Math/vtkImageLogic.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Math/vtkImageMagnitude.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Math/vtkImageMaskBits.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Math/vtkImageMathematics.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Math/vtkImageWeightedSum.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Math/vtkImageDivergence.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Math/vtkImageDotProduct.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Math/vtkImageLogarithmicScale.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Math/vtkImageLogic.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Math/vtkImageMagnitude.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Math/vtkImageMaskBits.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Math/vtkImageMathematics.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Math/vtkImageWeightedSum.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/build/Imaging/Math/vtkImagingMathModule.h"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"vtkImagingMath"
+		],
+		"name" : "vtkImagingMath"
+	}
+}

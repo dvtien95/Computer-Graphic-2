@@ -1,0 +1,12 @@
+# Target labels
+ vtkIOSegY
+# Source files and their labels
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/SegY/vtkSegYReader.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/SegY/vtkSegYIOUtils.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/SegY/vtkSegYReaderInternal.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/SegY/vtkSegYTraceReader.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/SegY/vtkSegYReader.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/SegY/vtkSegYIOUtils.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/SegY/vtkSegYReaderInternal.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/SegY/vtkSegYTraceReader.h
+/Users/biyeuphuong/Desktop/CIS541/build/IO/SegY/vtkIOSegYModule.h

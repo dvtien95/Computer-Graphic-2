@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/verdict/vtkverdict/V_EdgeMetric.cpp"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/verdict/vtkverdict/V_GaussIntegration.cpp"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/verdict/vtkverdict/V_HexMetric.cpp"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/verdict/vtkverdict/V_KnifeMetric.cpp"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/verdict/vtkverdict/V_PyramidMetric.cpp"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/verdict/vtkverdict/V_QuadMetric.cpp"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/verdict/vtkverdict/V_TetMetric.cpp"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/verdict/vtkverdict/V_TriMetric.cpp"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/verdict/vtkverdict/VerdictVector.cpp"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/verdict/vtkverdict/V_WedgeMetric.cpp"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"vtkverdict"
+		],
+		"name" : "verdict"
+	}
+}

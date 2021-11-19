@@ -1,0 +1,16 @@
+# Target labels
+ vtkFiltersParallelImaging
+# Source files and their labels
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/ParallelImaging/vtkPComputeHistogram2DOutliers.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/ParallelImaging/vtkPExtractHistogram2D.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/ParallelImaging/vtkPPairwiseExtractHistogram2D.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/ParallelImaging/vtkExtractPiece.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/ParallelImaging/vtkMemoryLimitImageDataStreamer.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/ParallelImaging/vtkTransmitImageDataPiece.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/ParallelImaging/vtkPComputeHistogram2DOutliers.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/ParallelImaging/vtkPExtractHistogram2D.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/ParallelImaging/vtkPPairwiseExtractHistogram2D.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/ParallelImaging/vtkExtractPiece.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/ParallelImaging/vtkMemoryLimitImageDataStreamer.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/ParallelImaging/vtkTransmitImageDataPiece.h
+/Users/biyeuphuong/Desktop/CIS541/build/Filters/ParallelImaging/vtkFiltersParallelImagingModule.h

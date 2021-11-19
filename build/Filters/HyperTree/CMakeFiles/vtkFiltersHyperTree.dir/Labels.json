@@ -1,0 +1,76 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/HyperTree/vtkHyperTreeGridAxisClip.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/HyperTree/vtkHyperTreeGridAxisCut.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/HyperTree/vtkHyperTreeGridAxisReflection.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/HyperTree/vtkHyperTreeGridCellCenters.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/HyperTree/vtkHyperTreeGridContour.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/HyperTree/vtkHyperTreeGridDepthLimiter.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/HyperTree/vtkHyperTreeGridGeometry.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/HyperTree/vtkHyperTreeGridPlaneCutter.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/HyperTree/vtkHyperTreeGridThreshold.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/HyperTree/vtkHyperTreeGridToUnstructuredGrid.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/HyperTree/vtkHyperTreeGridAxisClip.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/HyperTree/vtkHyperTreeGridAxisCut.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/HyperTree/vtkHyperTreeGridAxisReflection.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/HyperTree/vtkHyperTreeGridCellCenters.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/HyperTree/vtkHyperTreeGridContour.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/HyperTree/vtkHyperTreeGridDepthLimiter.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/HyperTree/vtkHyperTreeGridGeometry.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/HyperTree/vtkHyperTreeGridPlaneCutter.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/HyperTree/vtkHyperTreeGridThreshold.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/HyperTree/vtkHyperTreeGridToUnstructuredGrid.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/build/Filters/HyperTree/vtkFiltersHyperTreeModule.h"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"vtkFiltersHyperTree"
+		],
+		"name" : "vtkFiltersHyperTree"
+	}
+}

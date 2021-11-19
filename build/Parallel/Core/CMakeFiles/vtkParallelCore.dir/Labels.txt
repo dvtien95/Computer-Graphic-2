@@ -1,0 +1,34 @@
+# Target labels
+ vtkParallelCore
+# Source files and their labels
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Parallel/Core/vtkCommunicator.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Parallel/Core/vtkDummyCommunicator.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Parallel/Core/vtkDummyController.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Parallel/Core/vtkMultiProcessController.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Parallel/Core/vtkMultiProcessStream.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Parallel/Core/vtkPDirectory.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Parallel/Core/vtkProcess.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Parallel/Core/vtkProcessGroup.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Parallel/Core/vtkPSystemTools.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Parallel/Core/vtkSocketCommunicator.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Parallel/Core/vtkSocketController.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Parallel/Core/vtkSubCommunicator.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Parallel/Core/vtkSubGroup.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Parallel/Core/vtkFieldDataSerializer.cxx
+/Users/biyeuphuong/Desktop/CIS541/build/Parallel/Core/vtkSocketCommunicatorHash.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Parallel/Core/vtkCommunicator.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Parallel/Core/vtkDummyCommunicator.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Parallel/Core/vtkDummyController.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Parallel/Core/vtkMultiProcessController.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Parallel/Core/vtkMultiProcessStream.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Parallel/Core/vtkPDirectory.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Parallel/Core/vtkProcess.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Parallel/Core/vtkProcessGroup.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Parallel/Core/vtkPSystemTools.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Parallel/Core/vtkSocketCommunicator.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Parallel/Core/vtkSocketController.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Parallel/Core/vtkSubCommunicator.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Parallel/Core/vtkSubGroup.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Parallel/Core/vtkFieldDataSerializer.h
+/Users/biyeuphuong/Desktop/CIS541/build/Parallel/Core/vtkParallelCoreModule.h
+/Users/biyeuphuong/Desktop/CIS541/build/Parallel/Core/vtkSocketCommunicatorHash.h.rule

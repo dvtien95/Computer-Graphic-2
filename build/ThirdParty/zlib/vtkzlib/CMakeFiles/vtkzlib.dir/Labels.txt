@@ -1,0 +1,29 @@
+# Target labels
+ vtkzlib
+# Source files and their labels
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/zlib/vtkzlib/adler32.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/zlib/vtkzlib/compress.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/zlib/vtkzlib/crc32.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/zlib/vtkzlib/deflate.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/zlib/vtkzlib/gzclose.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/zlib/vtkzlib/gzlib.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/zlib/vtkzlib/gzread.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/zlib/vtkzlib/gzwrite.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/zlib/vtkzlib/inflate.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/zlib/vtkzlib/infback.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/zlib/vtkzlib/inftrees.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/zlib/vtkzlib/inffast.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/zlib/vtkzlib/trees.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/zlib/vtkzlib/uncompr.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/zlib/vtkzlib/zutil.c
+/Users/biyeuphuong/Desktop/CIS541/build/ThirdParty/zlib/vtkzlib/zconf.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/zlib/vtkzlib/zlib.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/zlib/vtkzlib/crc32.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/zlib/vtkzlib/deflate.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/zlib/vtkzlib/gzguts.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/zlib/vtkzlib/inffast.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/zlib/vtkzlib/inffixed.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/zlib/vtkzlib/inflate.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/zlib/vtkzlib/inftrees.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/zlib/vtkzlib/trees.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/zlib/vtkzlib/zutil.h

@@ -1,0 +1,280 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkArcParallelEdgeStrategy.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkAreaLayout.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkAreaLayoutStrategy.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkAssignCoordinates.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkAssignCoordinatesLayoutStrategy.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkAttributeClustering2DLayoutStrategy.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkBoxLayoutStrategy.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkCirclePackFrontChainLayoutStrategy.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkCirclePackLayout.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkCirclePackLayoutStrategy.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkCirclePackToPolyData.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkCircularLayoutStrategy.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkClustering2DLayoutStrategy.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkCommunity2DLayoutStrategy.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkConeLayoutStrategy.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkConstrained2DLayoutStrategy.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkCosmicTreeLayoutStrategy.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkEdgeLayout.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkEdgeLayoutStrategy.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkFast2DLayoutStrategy.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkForceDirectedLayoutStrategy.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkGeoEdgeStrategy.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkGeoMath.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkGraphLayout.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkGraphLayoutStrategy.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkIncrementalForceLayout.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkPassThroughEdgeStrategy.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkPassThroughLayoutStrategy.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkPerturbCoincidentVertices.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkRandomLayoutStrategy.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkSimple2DLayoutStrategy.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkSimple3DCirclesStrategy.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkSliceAndDiceLayoutStrategy.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkSpanTreeLayoutStrategy.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkSplineGraphEdges.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkSquarifyLayoutStrategy.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkStackedTreeLayoutStrategy.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkTreeLayoutStrategy.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkTreeMapLayout.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkTreeMapLayoutStrategy.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkTreeMapToPolyData.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkTreeOrbitLayoutStrategy.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkTreeRingToPolyData.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkKCoreLayout.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkArcParallelEdgeStrategy.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkAreaLayout.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkAreaLayoutStrategy.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkAssignCoordinates.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkAssignCoordinatesLayoutStrategy.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkAttributeClustering2DLayoutStrategy.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkBoxLayoutStrategy.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkCirclePackFrontChainLayoutStrategy.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkCirclePackLayout.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkCirclePackLayoutStrategy.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkCirclePackToPolyData.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkCircularLayoutStrategy.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkClustering2DLayoutStrategy.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkCommunity2DLayoutStrategy.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkConeLayoutStrategy.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkConstrained2DLayoutStrategy.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkCosmicTreeLayoutStrategy.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkEdgeLayout.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkEdgeLayoutStrategy.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkFast2DLayoutStrategy.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkForceDirectedLayoutStrategy.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkGeoEdgeStrategy.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkGeoMath.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkGraphLayout.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkGraphLayoutStrategy.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkIncrementalForceLayout.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkPassThroughEdgeStrategy.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkPassThroughLayoutStrategy.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkPerturbCoincidentVertices.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkRandomLayoutStrategy.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkSimple2DLayoutStrategy.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkSimple3DCirclesStrategy.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkSliceAndDiceLayoutStrategy.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkSpanTreeLayoutStrategy.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkSplineGraphEdges.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkSquarifyLayoutStrategy.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkStackedTreeLayoutStrategy.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkTreeLayoutStrategy.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkTreeMapLayout.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkTreeMapLayoutStrategy.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkTreeMapToPolyData.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkTreeOrbitLayoutStrategy.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkTreeRingToPolyData.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Infovis/Layout/vtkKCoreLayout.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/build/Infovis/Layout/vtkInfovisLayoutModule.h"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"vtkInfovisLayout"
+		],
+		"name" : "vtkInfovisLayout"
+	}
+}

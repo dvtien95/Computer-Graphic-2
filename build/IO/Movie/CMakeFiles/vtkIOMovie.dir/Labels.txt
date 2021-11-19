@@ -1,0 +1,9 @@
+# Target labels
+ vtkIOMovie
+# Source files and their labels
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/Movie/vtkGenericMovieWriter.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/Movie/vtkOggTheoraWriter.cxx
+/Users/biyeuphuong/Desktop/CIS541/build/IO/Movie/vtkIOMovieConfigure.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/Movie/vtkGenericMovieWriter.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/Movie/vtkOggTheoraWriter.h
+/Users/biyeuphuong/Desktop/CIS541/build/IO/Movie/vtkIOMovieModule.h

@@ -1,0 +1,23 @@
+# Target labels
+ vtkpng
+# Source files and their labels
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/png/vtkpng/png.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/png/vtkpng/pngerror.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/png/vtkpng/pngget.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/png/vtkpng/pngmem.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/png/vtkpng/pngpread.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/png/vtkpng/pngread.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/png/vtkpng/pngrio.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/png/vtkpng/pngrtran.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/png/vtkpng/pngrutil.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/png/vtkpng/pngset.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/png/vtkpng/pngtrans.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/png/vtkpng/pngwio.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/png/vtkpng/pngwrite.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/png/vtkpng/pngwtran.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/png/vtkpng/pngwutil.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/png/vtkpng/png.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/png/vtkpng/pngconf.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/png/vtkpng/pnglibconf.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/png/vtkpng/vtk_png_mangle.h
+/Users/biyeuphuong/Desktop/CIS541/build/ThirdParty/png/vtkpng/vtkpngConfig.h

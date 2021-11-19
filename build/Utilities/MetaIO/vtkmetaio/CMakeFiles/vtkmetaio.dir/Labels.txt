@@ -1,0 +1,36 @@
+# Target labels
+ vtkMetaIO
+# Source files and their labels
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaTypes.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaUtils.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaArrow.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaBlob.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaCommand.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaCommand.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaContour.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaContour.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaDTITube.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaEllipse.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaGroup.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaGaussian.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaImage.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaImageUtils.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaLandmark.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaLine.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaMesh.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaMesh.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaObject.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaOutput.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaOutput.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaScene.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaSurface.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaTube.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaVesselTube.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaTransform.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaTubeGraph.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaForm.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaForm.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaArray.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaArray.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaFEMObject.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaFEMObject.cxx

@@ -1,0 +1,12 @@
+# Target labels
+ vtkInteractionImage
+# Source files and their labels
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Interaction/Image/vtkImageViewer2.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Interaction/Image/vtkImageViewer.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Interaction/Image/vtkResliceImageViewer.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Interaction/Image/vtkResliceImageViewerMeasurements.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Interaction/Image/vtkImageViewer2.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Interaction/Image/vtkImageViewer.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Interaction/Image/vtkResliceImageViewer.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Interaction/Image/vtkResliceImageViewerMeasurements.h
+/Users/biyeuphuong/Desktop/CIS541/build/Interaction/Image/vtkInteractionImageModule.h

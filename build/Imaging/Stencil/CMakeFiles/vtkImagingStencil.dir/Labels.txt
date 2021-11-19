@@ -1,0 +1,18 @@
+# Target labels
+ vtkImagingStencil
+# Source files and their labels
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Stencil/vtkImageStencil.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Stencil/vtkImageStencilToImage.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Stencil/vtkImageToImageStencil.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Stencil/vtkImplicitFunctionToImageStencil.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Stencil/vtkLassoStencilSource.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Stencil/vtkPolyDataToImageStencil.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Stencil/vtkROIStencilSource.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Stencil/vtkImageStencil.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Stencil/vtkImageStencilToImage.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Stencil/vtkImageToImageStencil.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Stencil/vtkImplicitFunctionToImageStencil.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Stencil/vtkLassoStencilSource.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Stencil/vtkPolyDataToImageStencil.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Stencil/vtkROIStencilSource.h
+/Users/biyeuphuong/Desktop/CIS541/build/Imaging/Stencil/vtkImagingStencilModule.h

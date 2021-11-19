@@ -1,0 +1,166 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkAdaptiveDataSetSurfaceFilter.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkBSplineTransform.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkDepthSortPolyData.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkDSPFilterDefinition.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkDSPFilterGroup.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkEarthSource.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkFacetReader.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkForceTime.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkGreedyTerrainDecimation.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkGridTransform.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkImageToPolyDataFilter.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkImplicitModeller.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkPCAAnalysisFilter.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkPolyDataSilhouette.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkProcrustesAlignmentFilter.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkProjectedTerrainPath.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkRenderLargeImage.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkTemporalArrayOperatorFilter.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkTemporalDataSetCache.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkTemporalFractal.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkTemporalInterpolator.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkTemporalShiftScale.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkTemporalSnapToTimeStep.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkTransformToGrid.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkWeightedTransformFilter.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkAdaptiveDataSetSurfaceFilter.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkBSplineTransform.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkDepthSortPolyData.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkDSPFilterDefinition.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkDSPFilterGroup.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkEarthSource.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkFacetReader.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkForceTime.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkGreedyTerrainDecimation.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkGridTransform.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkImageToPolyDataFilter.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkImplicitModeller.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkPCAAnalysisFilter.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkPolyDataSilhouette.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkProcrustesAlignmentFilter.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkProjectedTerrainPath.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkRenderLargeImage.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkTemporalArrayOperatorFilter.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkTemporalDataSetCache.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkTemporalFractal.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkTemporalInterpolator.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkTemporalShiftScale.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkTemporalSnapToTimeStep.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkTransformToGrid.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Hybrid/vtkWeightedTransformFilter.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/build/Filters/Hybrid/vtkFiltersHybridModule.h"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"vtkFiltersHybrid"
+		],
+		"name" : "vtkFiltersHybrid"
+	}
+}

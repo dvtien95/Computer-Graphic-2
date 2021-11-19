@@ -1,0 +1,10 @@
+# Target labels
+ vtkIOXMLParser
+# Source files and their labels
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/XMLParser/vtkXMLDataParser.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/XMLParser/vtkXMLParser.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/XMLParser/vtkXMLUtilities.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/XMLParser/vtkXMLDataParser.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/XMLParser/vtkXMLParser.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/XMLParser/vtkXMLUtilities.h
+/Users/biyeuphuong/Desktop/CIS541/build/IO/XMLParser/vtkIOXMLParserModule.h

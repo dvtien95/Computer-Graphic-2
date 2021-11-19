@@ -1,0 +1,15 @@
+set(vtkCommonCore_LOADED 1)
+set(vtkCommonCore_DEPENDS "vtkkwiml;vtksys;vtkutf8")
+set(vtkCommonCore_LIBRARIES "vtkCommonCore")
+set(vtkCommonCore_INCLUDE_DIRS "/Users/biyeuphuong/Desktop/CIS541/build/Common/Core;/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/Core")
+set(vtkCommonCore_LIBRARY_DIRS "")
+set(vtkCommonCore_RUNTIME_LIBRARY_DIRS "/Users/biyeuphuong/Desktop/CIS541/build/lib")
+set(vtkCommonCore_WRAP_HIERARCHY_FILE "")
+set(vtkCommonCore_KIT "vtkCommon")
+set(vtkCommonCore_TARGETS_FILE "")
+set(VTK_DEBUG_LEAKS "OFF")
+set(VTK_USE_64BIT_IDS "ON")
+set(VTK_ALL_NEW_OBJECT_FACTORY "OFF")
+set(VTK_USE_64BIT_TIMESTAMPS "")
+
+

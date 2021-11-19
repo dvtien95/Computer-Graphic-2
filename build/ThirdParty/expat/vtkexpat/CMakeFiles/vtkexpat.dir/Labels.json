@@ -1,0 +1,40 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/expat/vtkexpat/lib/loadlibrary.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/expat/vtkexpat/lib/xmlparse.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/expat/vtkexpat/lib/xmlrole.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/expat/vtkexpat/lib/xmltok.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/expat/vtkexpat/lib/xmltok_impl.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/expat/vtkexpat/lib/xmltok_ns.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/expat/vtkexpat/lib/expat.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/expat/vtkexpat/lib/expat_external.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/expat/vtkexpat/lib/vtk_expat_mangle.h"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"vtkexpat"
+		],
+		"name" : "vtkexpat"
+	}
+}

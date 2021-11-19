@@ -1,0 +1,18 @@
+# Target labels
+ vtkFiltersAMR
+# Source files and their labels
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/AMR/vtkAMRCutPlane.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/AMR/vtkAMRGaussianPulseSource.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/AMR/vtkAMRResampleFilter.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/AMR/vtkAMRSliceFilter.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/AMR/vtkAMRToMultiBlockFilter.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/AMR/vtkImageToAMR.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/AMR/vtkParallelAMRUtilities.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/AMR/vtkAMRCutPlane.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/AMR/vtkAMRGaussianPulseSource.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/AMR/vtkAMRResampleFilter.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/AMR/vtkAMRSliceFilter.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/AMR/vtkAMRToMultiBlockFilter.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/AMR/vtkImageToAMR.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/AMR/vtkParallelAMRUtilities.h
+/Users/biyeuphuong/Desktop/CIS541/build/Filters/AMR/vtkFiltersAMRModule.h

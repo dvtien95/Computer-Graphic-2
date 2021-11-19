@@ -1,0 +1,106 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/analyze.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/encapiwrapper.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/encfrag.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/encinfo.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/encode.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/enquant.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/fdct.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/huffenc.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/mathops.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/mcenc.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/rate.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/tokenize.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/bitpack.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/decapiwrapper.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/decinfo.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/decode.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/dequant.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/huffdec.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/info.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/apiwrapper.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/fragment.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/idct.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/internal.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/quant.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/state.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/include/theora/codec.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/include/theora/theora.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/include/theora/theoradec.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/include/theora/theoraenc.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/include/theora/vtk_theora_mangle.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/build/ThirdParty/theora/vtktheora/include/vtktheora_export.h"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"vtktheora"
+		],
+		"name" : "vtktheora"
+	}
+}

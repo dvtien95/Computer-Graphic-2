@@ -1,0 +1,26 @@
+# Target labels
+ vtkImagingMorphological
+# Source files and their labels
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Morphological/vtkImageConnector.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Morphological/vtkImageConnectivityFilter.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Morphological/vtkImageContinuousDilate3D.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Morphological/vtkImageContinuousErode3D.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Morphological/vtkImageDilateErode3D.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Morphological/vtkImageIslandRemoval2D.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Morphological/vtkImageNonMaximumSuppression.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Morphological/vtkImageOpenClose3D.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Morphological/vtkImageSeedConnectivity.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Morphological/vtkImageSkeleton2D.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Morphological/vtkImageThresholdConnectivity.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Morphological/vtkImageConnector.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Morphological/vtkImageConnectivityFilter.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Morphological/vtkImageContinuousDilate3D.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Morphological/vtkImageContinuousErode3D.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Morphological/vtkImageDilateErode3D.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Morphological/vtkImageIslandRemoval2D.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Morphological/vtkImageNonMaximumSuppression.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Morphological/vtkImageOpenClose3D.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Morphological/vtkImageSeedConnectivity.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Morphological/vtkImageSkeleton2D.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Morphological/vtkImageThresholdConnectivity.h
+/Users/biyeuphuong/Desktop/CIS541/build/Imaging/Morphological/vtkImagingMorphologicalModule.h

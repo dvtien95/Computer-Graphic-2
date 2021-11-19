@@ -1,0 +1,13 @@
+# Target labels
+ vtkverdict
+# Source files and their labels
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/verdict/vtkverdict/V_EdgeMetric.cpp
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/verdict/vtkverdict/V_GaussIntegration.cpp
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/verdict/vtkverdict/V_HexMetric.cpp
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/verdict/vtkverdict/V_KnifeMetric.cpp
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/verdict/vtkverdict/V_PyramidMetric.cpp
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/verdict/vtkverdict/V_QuadMetric.cpp
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/verdict/vtkverdict/V_TetMetric.cpp
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/verdict/vtkverdict/V_TriMetric.cpp
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/verdict/vtkverdict/VerdictVector.cpp
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/verdict/vtkverdict/V_WedgeMetric.cpp

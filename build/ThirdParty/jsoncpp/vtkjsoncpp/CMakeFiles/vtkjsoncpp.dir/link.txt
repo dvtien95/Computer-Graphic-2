@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -w -w -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -dynamiclib -Wl,-headerpad_max_install_names -compatibility_version 1.0.0 -current_version 1.0.0 -o ../../../lib/libvtkjsoncpp-8.2.1.dylib -install_name @rpath/libvtkjsoncpp-8.2.1.dylib CMakeFiles/vtkjsoncpp.dir/jsoncpp.cpp.o 

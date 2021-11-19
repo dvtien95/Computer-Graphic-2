@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "../../lib/libvtkCommonTransforms-8.2.1.dylib"
+  "../../lib/libvtkCommonTransforms-8.2.dylib"
+  "../../lib/libvtkCommonTransforms-8.2.pdb"
+  "CMakeFiles/vtkCommonTransforms.dir/vtkAbstractTransform.cxx.o"
+  "CMakeFiles/vtkCommonTransforms.dir/vtkAbstractTransform.cxx.o.d"
+  "CMakeFiles/vtkCommonTransforms.dir/vtkCylindricalTransform.cxx.o"
+  "CMakeFiles/vtkCommonTransforms.dir/vtkCylindricalTransform.cxx.o.d"
+  "CMakeFiles/vtkCommonTransforms.dir/vtkGeneralTransform.cxx.o"
+  "CMakeFiles/vtkCommonTransforms.dir/vtkGeneralTransform.cxx.o.d"
+  "CMakeFiles/vtkCommonTransforms.dir/vtkHomogeneousTransform.cxx.o"
+  "CMakeFiles/vtkCommonTransforms.dir/vtkHomogeneousTransform.cxx.o.d"
+  "CMakeFiles/vtkCommonTransforms.dir/vtkIdentityTransform.cxx.o"
+  "CMakeFiles/vtkCommonTransforms.dir/vtkIdentityTransform.cxx.o.d"
+  "CMakeFiles/vtkCommonTransforms.dir/vtkLandmarkTransform.cxx.o"
+  "CMakeFiles/vtkCommonTransforms.dir/vtkLandmarkTransform.cxx.o.d"
+  "CMakeFiles/vtkCommonTransforms.dir/vtkLinearTransform.cxx.o"
+  "CMakeFiles/vtkCommonTransforms.dir/vtkLinearTransform.cxx.o.d"
+  "CMakeFiles/vtkCommonTransforms.dir/vtkMatrixToHomogeneousTransform.cxx.o"
+  "CMakeFiles/vtkCommonTransforms.dir/vtkMatrixToHomogeneousTransform.cxx.o.d"
+  "CMakeFiles/vtkCommonTransforms.dir/vtkMatrixToLinearTransform.cxx.o"
+  "CMakeFiles/vtkCommonTransforms.dir/vtkMatrixToLinearTransform.cxx.o.d"
+  "CMakeFiles/vtkCommonTransforms.dir/vtkPerspectiveTransform.cxx.o"
+  "CMakeFiles/vtkCommonTransforms.dir/vtkPerspectiveTransform.cxx.o.d"
+  "CMakeFiles/vtkCommonTransforms.dir/vtkSphericalTransform.cxx.o"
+  "CMakeFiles/vtkCommonTransforms.dir/vtkSphericalTransform.cxx.o.d"
+  "CMakeFiles/vtkCommonTransforms.dir/vtkThinPlateSplineTransform.cxx.o"
+  "CMakeFiles/vtkCommonTransforms.dir/vtkThinPlateSplineTransform.cxx.o.d"
+  "CMakeFiles/vtkCommonTransforms.dir/vtkTransform.cxx.o"
+  "CMakeFiles/vtkCommonTransforms.dir/vtkTransform.cxx.o.d"
+  "CMakeFiles/vtkCommonTransforms.dir/vtkTransform2D.cxx.o"
+  "CMakeFiles/vtkCommonTransforms.dir/vtkTransform2D.cxx.o.d"
+  "CMakeFiles/vtkCommonTransforms.dir/vtkTransformCollection.cxx.o"
+  "CMakeFiles/vtkCommonTransforms.dir/vtkTransformCollection.cxx.o.d"
+  "CMakeFiles/vtkCommonTransforms.dir/vtkWarpTransform.cxx.o"
+  "CMakeFiles/vtkCommonTransforms.dir/vtkWarpTransform.cxx.o.d"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/vtkCommonTransforms.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

@@ -1,0 +1,7 @@
+# Target labels
+ vtkpugixml
+# Source files and their labels
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/pugixml/vtkpugixml/src/pugixml.cpp
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/pugixml/vtkpugixml/src/pugixml.hpp
+/Users/biyeuphuong/Desktop/CIS541/build/ThirdParty/pugixml/vtkpugixml/pugiconfig.hpp
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/pugixml/vtkpugixml/src/vtk_pugixml_mangle.h

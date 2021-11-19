@@ -1,0 +1,64 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/doubleconversion/vtkdoubleconversion/double-conversion/bignum.cc"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/doubleconversion/vtkdoubleconversion/double-conversion/bignum-dtoa.cc"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/doubleconversion/vtkdoubleconversion/double-conversion/cached-powers.cc"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/doubleconversion/vtkdoubleconversion/double-conversion/diy-fp.cc"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/doubleconversion/vtkdoubleconversion/double-conversion/double-conversion.cc"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/doubleconversion/vtkdoubleconversion/double-conversion/fast-dtoa.cc"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/doubleconversion/vtkdoubleconversion/double-conversion/fixed-dtoa.cc"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/doubleconversion/vtkdoubleconversion/double-conversion/strtod.cc"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/doubleconversion/vtkdoubleconversion/double-conversion/bignum.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/doubleconversion/vtkdoubleconversion/double-conversion/cached-powers.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/doubleconversion/vtkdoubleconversion/double-conversion/diy-fp.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/doubleconversion/vtkdoubleconversion/double-conversion/double-conversion.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/doubleconversion/vtkdoubleconversion/double-conversion/fast-dtoa.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/doubleconversion/vtkdoubleconversion/double-conversion/fixed-dtoa.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/doubleconversion/vtkdoubleconversion/double-conversion/ieee.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/doubleconversion/vtkdoubleconversion/double-conversion/strtod.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/doubleconversion/vtkdoubleconversion/double-conversion/utils.h"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"vtkdoubleconversion"
+		],
+		"name" : "vtkdoubleconversion"
+	}
+}

@@ -1,0 +1,142 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/DOCBparser.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/HTMLparser.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/HTMLtree.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/SAX.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/SAX2.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/c14n.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/catalog.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/chvalid.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/debugXML.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/dict.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/encoding.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/entities.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/error.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/globals.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/hash.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/legacy.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/list.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/nanoftp.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/nanohttp.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/parser.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/parserInternals.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/pattern.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/relaxng.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/schematron.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/threads.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/tree.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/uri.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/valid.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/xinclude.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/xlink.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/xmlIO.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/xmlmemory.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/xmlmodule.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/xmlreader.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/xmlregexp.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/xmlsave.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/xmlschemas.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/xmlschemastypes.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/xmlstring.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/xmlunicode.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/xmlwriter.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/xpath.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/xpointer.c"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"vtklibxml2"
+		],
+		"name" : "vtklibxml2"
+	}
+}

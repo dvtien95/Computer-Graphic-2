@@ -1,0 +1,112 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaTypes.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaUtils.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaArrow.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaBlob.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaCommand.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaCommand.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaContour.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaContour.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaDTITube.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaEllipse.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaGroup.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaGaussian.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaImage.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaImageUtils.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaLandmark.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaLine.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaMesh.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaMesh.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaObject.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaOutput.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaOutput.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaScene.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaSurface.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaTube.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaVesselTube.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaTransform.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaTubeGraph.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaForm.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaForm.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaArray.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaArray.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaFEMObject.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/MetaIO/vtkmetaio/metaFEMObject.cxx"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"vtkMetaIO"
+		],
+		"name" : "vtkmetaio"
+	}
+}

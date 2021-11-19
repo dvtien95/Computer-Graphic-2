@@ -1,0 +1,31 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/Movie/vtkGenericMovieWriter.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/Movie/vtkOggTheoraWriter.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/build/IO/Movie/vtkIOMovieConfigure.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/Movie/vtkGenericMovieWriter.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/Movie/vtkOggTheoraWriter.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/build/IO/Movie/vtkIOMovieModule.h"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"vtkIOMovie"
+		],
+		"name" : "vtkIOMovie"
+	}
+}

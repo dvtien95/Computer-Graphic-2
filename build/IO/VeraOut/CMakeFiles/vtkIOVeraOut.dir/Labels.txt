@@ -1,0 +1,6 @@
+# Target labels
+ vtkIOVeraOut
+# Source files and their labels
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/VeraOut/vtkVeraOutReader.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/VeraOut/vtkVeraOutReader.h
+/Users/biyeuphuong/Desktop/CIS541/build/IO/VeraOut/vtkIOVeraOutModule.h

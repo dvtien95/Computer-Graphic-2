@@ -1,0 +1,8 @@
+# Target labels
+ vtkIOExportOpenGL2
+# Source files and their labels
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/ExportOpenGL2/vtkOpenGLGL2PSExporter.cxx
+/Users/biyeuphuong/Desktop/CIS541/build/IO/ExportOpenGL2/vtkIOExportOpenGL2ObjectFactory.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/ExportOpenGL2/vtkOpenGLGL2PSExporter.h
+/Users/biyeuphuong/Desktop/CIS541/build/IO/ExportOpenGL2/vtkIOExportOpenGL2ObjectFactory.h
+/Users/biyeuphuong/Desktop/CIS541/build/IO/ExportOpenGL2/vtkIOExportOpenGL2Module.h

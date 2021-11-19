@@ -1,0 +1,8 @@
+# Target labels
+ vtkglew
+# Source files and their labels
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/glew/vtkglew/src/glew.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/glew/vtkglew/include/GL/glew.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/glew/vtkglew/include/GL/glxew.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/glew/vtkglew/include/GL/vtk_glew_mangle.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/glew/vtkglew/include/GL/wglew.h

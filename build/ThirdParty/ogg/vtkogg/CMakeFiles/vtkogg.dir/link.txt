@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -dynamiclib -Wl,-headerpad_max_install_names -compatibility_version 1.0.0 -current_version 1.0.0 -o ../../../lib/libvtkogg-8.2.1.dylib -install_name @rpath/libvtkogg-8.2.1.dylib CMakeFiles/vtkogg.dir/src/bitwise.c.o CMakeFiles/vtkogg.dir/src/framing.c.o 

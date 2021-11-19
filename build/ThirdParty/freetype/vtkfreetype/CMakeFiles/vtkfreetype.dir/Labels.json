@@ -1,0 +1,91 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/base/ftbase.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/base/ftbbox.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/base/ftbitmap.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/base/ftglyph.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/base/ftinit.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/base/ftmm.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/bdf/bdf.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/cache/ftcache.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/cff/cff.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/cid/type1cid.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/gzip/ftgzip.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/lzw/ftlzw.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/pcf/pcf.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/pfr/pfr.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/psaux/psaux.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/pshinter/pshinter.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/psnames/psmodule.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/raster/raster.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/sfnt/sfnt.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/smooth/smooth.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/truetype/truetype.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/type1/type1.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/type42/type42.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/winfonts/winfnt.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/base/ftdebug.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/builds/unix/ftsystem.c"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"vtkfreetype"
+		],
+		"name" : "vtkfreetype"
+	}
+}

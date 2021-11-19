@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/H5make_libsettings.dir/H5make_libsettings.c.o -o ../../../../bin/vtkH5make_libsettings 

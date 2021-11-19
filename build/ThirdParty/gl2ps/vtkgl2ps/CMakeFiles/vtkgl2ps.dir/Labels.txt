@@ -1,0 +1,6 @@
+# Target labels
+ vtkgl2ps
+# Source files and their labels
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/gl2ps/vtkgl2ps/gl2ps.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/gl2ps/vtkgl2ps/gl2ps.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/gl2ps/vtkgl2ps/vtk_gl2ps_mangle.h

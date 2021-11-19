@@ -1,0 +1,10 @@
+# Target labels
+ vtkogg
+# Source files and their labels
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/ogg/vtkogg/src/bitwise.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/ogg/vtkogg/src/framing.c
+/Users/biyeuphuong/Desktop/CIS541/build/ThirdParty/ogg/vtkogg/include/ogg/config_types.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/ogg/vtkogg/include/ogg/ogg.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/ogg/vtkogg/include/ogg/os_types.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/ogg/vtkogg/include/ogg/vtk_ogg_mangle.h
+/Users/biyeuphuong/Desktop/CIS541/build/ThirdParty/ogg/vtkogg/include/ogg/vtkogg_export.h

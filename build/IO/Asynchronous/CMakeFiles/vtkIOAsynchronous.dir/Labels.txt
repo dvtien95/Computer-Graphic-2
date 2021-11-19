@@ -1,0 +1,6 @@
+# Target labels
+ vtkIOAsynchronous
+# Source files and their labels
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/Asynchronous/vtkThreadedImageWriter.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/Asynchronous/vtkThreadedImageWriter.h
+/Users/biyeuphuong/Desktop/CIS541/build/IO/Asynchronous/vtkIOAsynchronousModule.h

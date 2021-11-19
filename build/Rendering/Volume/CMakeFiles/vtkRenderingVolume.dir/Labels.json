@@ -1,0 +1,220 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkDirectionEncoder.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkEncodedGradientEstimator.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkEncodedGradientShader.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkFiniteDifferenceGradientEstimator.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkFixedPointRayCastImage.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkFixedPointVolumeRayCastCompositeGOHelper.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkFixedPointVolumeRayCastCompositeGOShadeHelper.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkFixedPointVolumeRayCastCompositeHelper.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkFixedPointVolumeRayCastCompositeShadeHelper.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkFixedPointVolumeRayCastHelper.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkFixedPointVolumeRayCastMIPHelper.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkFixedPointVolumeRayCastMapper.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkGPUVolumeRayCastMapper.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkMultiVolume.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkOSPRayVolumeInterface.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkProjectedTetrahedraMapper.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkRayCastImageDisplayHelper.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkRecursiveSphereDirectionEncoder.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkSphericalDirectionEncoder.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkUnstructuredGridBunykRayCastFunction.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkUnstructuredGridHomogeneousRayIntegrator.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkUnstructuredGridLinearRayIntegrator.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkUnstructuredGridPartialPreIntegration.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkUnstructuredGridPreIntegration.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkUnstructuredGridVolumeMapper.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkUnstructuredGridVolumeRayCastFunction.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkUnstructuredGridVolumeRayCastIterator.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkUnstructuredGridVolumeRayCastMapper.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkUnstructuredGridVolumeRayIntegrator.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkUnstructuredGridVolumeZSweepMapper.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkVolumeMapper.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkVolumeOutlineSource.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkVolumePicker.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkVolumeRayCastSpaceLeapingImageFilter.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkDirectionEncoder.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkEncodedGradientEstimator.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkEncodedGradientShader.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkFiniteDifferenceGradientEstimator.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkFixedPointRayCastImage.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkFixedPointVolumeRayCastCompositeGOHelper.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkFixedPointVolumeRayCastCompositeGOShadeHelper.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkFixedPointVolumeRayCastCompositeHelper.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkFixedPointVolumeRayCastCompositeShadeHelper.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkFixedPointVolumeRayCastHelper.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkFixedPointVolumeRayCastMIPHelper.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkFixedPointVolumeRayCastMapper.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkGPUVolumeRayCastMapper.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkMultiVolume.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkOSPRayVolumeInterface.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkProjectedTetrahedraMapper.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkRayCastImageDisplayHelper.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkRecursiveSphereDirectionEncoder.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkSphericalDirectionEncoder.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkUnstructuredGridBunykRayCastFunction.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkUnstructuredGridHomogeneousRayIntegrator.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkUnstructuredGridLinearRayIntegrator.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkUnstructuredGridPartialPreIntegration.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkUnstructuredGridPreIntegration.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkUnstructuredGridVolumeMapper.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkUnstructuredGridVolumeRayCastFunction.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkUnstructuredGridVolumeRayCastIterator.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkUnstructuredGridVolumeRayCastMapper.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkUnstructuredGridVolumeRayIntegrator.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkUnstructuredGridVolumeZSweepMapper.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkVolumeMapper.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkVolumeOutlineSource.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkVolumePicker.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Volume/vtkVolumeRayCastSpaceLeapingImageFilter.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/build/Rendering/Volume/vtkRenderingVolumeModule.h"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"vtkRenderingVolume"
+		],
+		"name" : "vtkRenderingVolume"
+	}
+}

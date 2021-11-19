@@ -1,0 +1,7 @@
+# Target labels
+ vtksqlite
+# Source files and their labels
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/sqlite/vtksqlite/sqlite3.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/sqlite/vtksqlite/sqlite3.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/sqlite/vtksqlite/vtk_sqlite_mangle.h
+/Users/biyeuphuong/Desktop/CIS541/build/ThirdParty/sqlite/vtksqlite/vtksqlite_export.h

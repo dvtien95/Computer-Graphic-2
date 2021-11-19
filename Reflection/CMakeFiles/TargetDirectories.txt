@@ -1,0 +1,3 @@
+/Users/biyeuphuong/Desktop/CIS541/3D/CMakeFiles/rebuild_cache.dir
+/Users/biyeuphuong/Desktop/CIS541/3D/CMakeFiles/edit_cache.dir
+/Users/biyeuphuong/Desktop/CIS541/3D/CMakeFiles/project3D.dir

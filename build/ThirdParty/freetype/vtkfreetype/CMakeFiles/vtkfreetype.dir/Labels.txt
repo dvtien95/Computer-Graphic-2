@@ -1,0 +1,29 @@
+# Target labels
+ vtkfreetype
+# Source files and their labels
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/base/ftbase.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/base/ftbbox.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/base/ftbitmap.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/base/ftglyph.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/base/ftinit.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/base/ftmm.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/bdf/bdf.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/cache/ftcache.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/cff/cff.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/cid/type1cid.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/gzip/ftgzip.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/lzw/ftlzw.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/pcf/pcf.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/pfr/pfr.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/psaux/psaux.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/pshinter/pshinter.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/psnames/psmodule.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/raster/raster.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/sfnt/sfnt.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/smooth/smooth.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/truetype/truetype.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/type1/type1.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/type42/type42.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/winfonts/winfnt.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/src/base/ftdebug.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/freetype/vtkfreetype/builds/unix/ftsystem.c

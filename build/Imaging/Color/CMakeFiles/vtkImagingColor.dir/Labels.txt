@@ -1,0 +1,24 @@
+# Target labels
+ vtkImagingColor
+# Source files and their labels
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Color/vtkImageHSIToRGB.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Color/vtkImageHSVToRGB.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Color/vtkImageYIQToRGB.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Color/vtkImageLuminance.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Color/vtkImageMapToRGBA.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Color/vtkImageMapToWindowLevelColors.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Color/vtkImageQuantizeRGBToIndex.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Color/vtkImageRGBToHSI.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Color/vtkImageRGBToHSV.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Color/vtkImageRGBToYIQ.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Color/vtkImageHSIToRGB.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Color/vtkImageHSVToRGB.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Color/vtkImageYIQToRGB.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Color/vtkImageLuminance.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Color/vtkImageMapToRGBA.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Color/vtkImageMapToWindowLevelColors.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Color/vtkImageQuantizeRGBToIndex.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Color/vtkImageRGBToHSI.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Color/vtkImageRGBToHSV.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Color/vtkImageRGBToYIQ.h
+/Users/biyeuphuong/Desktop/CIS541/build/Imaging/Color/vtkImagingColorModule.h

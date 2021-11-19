@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -dynamiclib -Wl,-headerpad_max_install_names -o libfoo.dylib -install_name /Users/biyeuphuong/Desktop/CIS541/build/CMakeTmp/VTK_UNDEFINED_SYMBOLS_ALLOWED/libfoo.dylib CMakeFiles/foo.dir/foo.c.o 

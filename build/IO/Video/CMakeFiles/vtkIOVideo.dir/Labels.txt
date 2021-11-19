@@ -1,0 +1,6 @@
+# Target labels
+ vtkIOVideo
+# Source files and their labels
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/Video/vtkVideoSource.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/Video/vtkVideoSource.h
+/Users/biyeuphuong/Desktop/CIS541/build/IO/Video/vtkIOVideoModule.h

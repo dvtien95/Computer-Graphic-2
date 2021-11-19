@@ -1,0 +1,10 @@
+# Target labels
+ vtkIOPLY
+# Source files and their labels
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/PLY/vtkPLY.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/PLY/vtkPLYReader.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/PLY/vtkPLYWriter.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/PLY/vtkPLY.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/PLY/vtkPLYReader.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/PLY/vtkPLYWriter.h
+/Users/biyeuphuong/Desktop/CIS541/build/IO/PLY/vtkIOPLYModule.h

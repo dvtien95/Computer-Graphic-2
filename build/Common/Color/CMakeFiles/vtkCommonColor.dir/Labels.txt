@@ -1,0 +1,8 @@
+# Target labels
+ vtkCommonColor
+# Source files and their labels
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/Color/vtkColorSeries.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/Color/vtkNamedColors.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/Color/vtkColorSeries.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/Color/vtkNamedColors.h
+/Users/biyeuphuong/Desktop/CIS541/build/Common/Color/vtkCommonColorModule.h

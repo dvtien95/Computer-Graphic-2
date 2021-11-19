@@ -1,0 +1,11 @@
+# Target labels
+ vtklz4
+# Source files and their labels
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/lz4/vtklz4/lib/lz4.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/lz4/vtklz4/lib/lz4hc.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/lz4/vtklz4/lib/lz4frame.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/lz4/vtklz4/lib/xxhash.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/lz4/vtklz4/lib/lz4.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/lz4/vtklz4/lib/lz4hc.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/lz4/vtklz4/lib/lz4frame.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/lz4/vtklz4/lib/lz4frame_static.h

@@ -1,0 +1,20 @@
+# Target labels
+ vtkFiltersTexture
+# Source files and their labels
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Texture/vtkTextureMapToCylinder.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Texture/vtkTextureMapToPlane.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Texture/vtkTextureMapToSphere.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Texture/vtkImplicitTextureCoords.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Texture/vtkThresholdTextureCoords.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Texture/vtkTransformTextureCoords.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Texture/vtkTriangularTCoords.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Texture/vtkScalarsToTextureFilter.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Texture/vtkTextureMapToCylinder.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Texture/vtkTextureMapToPlane.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Texture/vtkTextureMapToSphere.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Texture/vtkImplicitTextureCoords.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Texture/vtkThresholdTextureCoords.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Texture/vtkTransformTextureCoords.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Texture/vtkTriangularTCoords.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Texture/vtkScalarsToTextureFilter.h
+/Users/biyeuphuong/Desktop/CIS541/build/Filters/Texture/vtkFiltersTextureModule.h

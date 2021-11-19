@@ -1,0 +1,12 @@
+# Target labels
+ vtkexpat
+# Source files and their labels
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/expat/vtkexpat/lib/loadlibrary.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/expat/vtkexpat/lib/xmlparse.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/expat/vtkexpat/lib/xmlrole.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/expat/vtkexpat/lib/xmltok.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/expat/vtkexpat/lib/xmltok_impl.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/expat/vtkexpat/lib/xmltok_ns.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/expat/vtkexpat/lib/expat.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/expat/vtkexpat/lib/expat_external.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/expat/vtkexpat/lib/vtk_expat_mangle.h

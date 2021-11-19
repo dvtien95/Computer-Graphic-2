@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/project3C.dir/project3C.cxx.o -o project3C  -Wl,-rpath,/usr/local/lib -framework OpenGL /usr/local/lib/libGLEW.a /usr/local/lib/libglfw.3.3.dylib -framework OpenGL 

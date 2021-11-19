@@ -1,0 +1,12 @@
+In this example the input images are sequentially named img001.png, img002.png, img003.png, etc.
+
+ffmpeg -framerate 30 -i img%03d.png output.mp4
+
+When outputting H.264, adding -vf format=yuv420p or -pix_fmt yuv420p will ensure compatibility so crappy players can decode the video. See the colorspace and chroma-subsampling for more info.
+
+If -framerate option is omitted the default will input and output 25 frames per second. See Frame rates for more info.
+
+Starting with a specific image
+For example if you want to start with img126.png then use the -start_number option:
+
+ffmpeg -start_number 126 -i img%03d.png -pix_fmt yuv420p out.mp4

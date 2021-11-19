@@ -1,0 +1,34 @@
+# Target labels
+ vtktheora
+# Source files and their labels
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/analyze.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/encapiwrapper.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/encfrag.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/encinfo.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/encode.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/enquant.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/fdct.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/huffenc.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/mathops.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/mcenc.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/rate.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/tokenize.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/bitpack.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/decapiwrapper.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/decinfo.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/decode.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/dequant.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/huffdec.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/info.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/apiwrapper.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/fragment.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/idct.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/internal.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/quant.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/lib/state.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/include/theora/codec.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/include/theora/theora.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/include/theora/theoradec.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/include/theora/theoraenc.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/theora/vtktheora/include/theora/vtk_theora_mangle.h
+/Users/biyeuphuong/Desktop/CIS541/build/ThirdParty/theora/vtktheora/include/vtktheora_export.h

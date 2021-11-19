@@ -1,0 +1,12 @@
+# Target labels
+ vtkRenderingImage
+# Source files and their labels
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Image/vtkDepthImageToPointCloud.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Image/vtkImageResliceMapper.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Image/vtkImageSliceCollection.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Image/vtkImageStack.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Image/vtkDepthImageToPointCloud.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Image/vtkImageResliceMapper.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Image/vtkImageSliceCollection.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/Image/vtkImageStack.h
+/Users/biyeuphuong/Desktop/CIS541/build/Rendering/Image/vtkRenderingImageModule.h

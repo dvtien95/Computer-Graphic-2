@@ -1,0 +1,25 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/pugixml/vtkpugixml/src/pugixml.cpp"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/pugixml/vtkpugixml/src/pugixml.hpp"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/build/ThirdParty/pugixml/vtkpugixml/pugiconfig.hpp"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/pugixml/vtkpugixml/src/vtk_pugixml_mangle.h"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"vtkpugixml"
+		],
+		"name" : "vtkpugixml"
+	}
+}

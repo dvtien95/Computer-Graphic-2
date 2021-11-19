@@ -1,0 +1,39 @@
+# Target labels
+ vtkDomainsChemistry
+# Source files and their labels
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Domains/Chemistry/vtkBlueObeliskData.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Domains/Chemistry/vtkBlueObeliskDataInternal.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Domains/Chemistry/vtkBlueObeliskDataParser.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Domains/Chemistry/vtkCMLMoleculeReader.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Domains/Chemistry/vtkGaussianCubeReader2.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Domains/Chemistry/vtkMoleculeMapper.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Domains/Chemistry/vtkMoleculeToAtomBallFilter.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Domains/Chemistry/vtkMoleculeToBondStickFilter.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Domains/Chemistry/vtkMoleculeToLinesFilter.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Domains/Chemistry/vtkMoleculeToPolyDataFilter.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Domains/Chemistry/vtkPeriodicTable.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Domains/Chemistry/vtkPointSetToMoleculeFilter.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Domains/Chemistry/vtkProgrammableElectronicData.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Domains/Chemistry/vtkProteinRibbonFilter.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Domains/Chemistry/vtkSimpleBondPerceiver.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Domains/Chemistry/vtkVASPAnimationReader.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Domains/Chemistry/vtkVASPTessellationReader.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Domains/Chemistry/vtkXYZMolReader2.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Domains/Chemistry/vtkBlueObeliskData.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Domains/Chemistry/vtkBlueObeliskDataParser.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Domains/Chemistry/vtkCMLMoleculeReader.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Domains/Chemistry/vtkGaussianCubeReader2.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Domains/Chemistry/vtkMoleculeMapper.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Domains/Chemistry/vtkMoleculeToAtomBallFilter.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Domains/Chemistry/vtkMoleculeToBondStickFilter.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Domains/Chemistry/vtkMoleculeToLinesFilter.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Domains/Chemistry/vtkMoleculeToPolyDataFilter.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Domains/Chemistry/vtkPeriodicTable.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Domains/Chemistry/vtkPointSetToMoleculeFilter.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Domains/Chemistry/vtkProgrammableElectronicData.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Domains/Chemistry/vtkProteinRibbonFilter.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Domains/Chemistry/vtkSimpleBondPerceiver.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Domains/Chemistry/vtkVASPAnimationReader.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Domains/Chemistry/vtkVASPTessellationReader.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Domains/Chemistry/vtkXYZMolReader2.h
+/Users/biyeuphuong/Desktop/CIS541/build/Domains/Chemistry/vtkDomainsChemistryModule.h

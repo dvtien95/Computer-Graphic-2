@@ -1,0 +1,20 @@
+# Target labels
+ vtkdoubleconversion
+# Source files and their labels
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/doubleconversion/vtkdoubleconversion/double-conversion/bignum.cc
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/doubleconversion/vtkdoubleconversion/double-conversion/bignum-dtoa.cc
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/doubleconversion/vtkdoubleconversion/double-conversion/cached-powers.cc
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/doubleconversion/vtkdoubleconversion/double-conversion/diy-fp.cc
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/doubleconversion/vtkdoubleconversion/double-conversion/double-conversion.cc
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/doubleconversion/vtkdoubleconversion/double-conversion/fast-dtoa.cc
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/doubleconversion/vtkdoubleconversion/double-conversion/fixed-dtoa.cc
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/doubleconversion/vtkdoubleconversion/double-conversion/strtod.cc
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/doubleconversion/vtkdoubleconversion/double-conversion/bignum.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/doubleconversion/vtkdoubleconversion/double-conversion/cached-powers.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/doubleconversion/vtkdoubleconversion/double-conversion/diy-fp.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/doubleconversion/vtkdoubleconversion/double-conversion/double-conversion.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/doubleconversion/vtkdoubleconversion/double-conversion/fast-dtoa.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/doubleconversion/vtkdoubleconversion/double-conversion/fixed-dtoa.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/doubleconversion/vtkdoubleconversion/double-conversion/ieee.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/doubleconversion/vtkdoubleconversion/double-conversion/strtod.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/doubleconversion/vtkdoubleconversion/double-conversion/utils.h

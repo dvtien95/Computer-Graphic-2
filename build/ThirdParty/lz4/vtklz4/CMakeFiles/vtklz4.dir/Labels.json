@@ -1,0 +1,37 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/lz4/vtklz4/lib/lz4.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/lz4/vtklz4/lib/lz4hc.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/lz4/vtklz4/lib/lz4frame.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/lz4/vtklz4/lib/xxhash.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/lz4/vtklz4/lib/lz4.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/lz4/vtklz4/lib/lz4hc.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/lz4/vtklz4/lib/lz4frame.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/lz4/vtklz4/lib/lz4frame_static.h"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"vtklz4"
+		],
+		"name" : "vtklz4"
+	}
+}

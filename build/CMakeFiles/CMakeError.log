@@ -1,0 +1,2129 @@
+Performing Test VTK_UNDEFINED_SYMBOLS_ALLOWED failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_06a05/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_06a05.dir/build.make CMakeFiles/cmTC_06a05.dir/build
+Building C object CMakeFiles/cmTC_06a05.dir/CheckIncludeFile.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_06a05.dir/CheckIncludeFile.c.o -MF CMakeFiles/cmTC_06a05.dir/CheckIncludeFile.c.o.d -o CMakeFiles/cmTC_06a05.dir/CheckIncludeFile.c.o -c /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_06a05
+/Applications/CMake.app/Contents/bin/cmake -E cmake_link_script CMakeFiles/cmTC_06a05.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/cc  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cmTC_06a05.dir/CheckIncludeFile.c.o -o cmTC_06a05 
+
+
+Checking whether C++ compiler has '__int64' failed to compile with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/Utilities/KWSys/vtksys/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_cc666/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_cc666.dir/build.make CMakeFiles/cmTC_cc666.dir/build
+Building CXX object CMakeFiles/cmTC_cc666.dir/kwsysPlatformTestsCXX.cxx.o
+/Library/Developer/CommandLineTools/usr/bin/c++ -DTEST_KWSYS_CXX_HAS___INT64  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_cc666.dir/kwsysPlatformTestsCXX.cxx.o -MF CMakeFiles/cmTC_cc666.dir/kwsysPlatformTestsCXX.cxx.o.d -o CMakeFiles/cmTC_cc666.dir/kwsysPlatformTestsCXX.cxx.o -c /Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/KWSys/vtksys/kwsysPlatformTestsCXX.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/KWSys/vtksys/kwsysPlatformTestsCXX.cxx:24:1: error: unknown type name '__int64'
+__int64 f(__int64 n)
+^
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/KWSys/vtksys/kwsysPlatformTestsCXX.cxx:24:11: error: unknown type name '__int64'
+__int64 f(__int64 n)
+          ^
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/KWSys/vtksys/kwsysPlatformTestsCXX.cxx:30:3: error: unknown type name '__int64'
+  __int64 n = 0;
+  ^
+3 errors generated.
+make[1]: *** [CMakeFiles/cmTC_cc666.dir/kwsysPlatformTestsCXX.cxx.o] Error 1
+make: *** [cmTC_cc666/fast] Error 2
+
+
+
+Checking whether CXX compiler has environ in stdlib.h failed to compile with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/Utilities/KWSys/vtksys/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_cccb0/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_cccb0.dir/build.make CMakeFiles/cmTC_cccb0.dir/build
+Building CXX object CMakeFiles/cmTC_cccb0.dir/kwsysPlatformTestsCXX.cxx.o
+/Library/Developer/CommandLineTools/usr/bin/c++ -DTEST_KWSYS_CXX_HAS_ENVIRON_IN_STDLIB_H  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_cccb0.dir/kwsysPlatformTestsCXX.cxx.o -MF CMakeFiles/cmTC_cccb0.dir/kwsysPlatformTestsCXX.cxx.o.d -o CMakeFiles/cmTC_cccb0.dir/kwsysPlatformTestsCXX.cxx.o -c /Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/KWSys/vtksys/kwsysPlatformTestsCXX.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/KWSys/vtksys/kwsysPlatformTestsCXX.cxx:196:13: error: use of undeclared identifier 'environ'
+  char* e = environ[0];
+            ^
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_cccb0.dir/kwsysPlatformTestsCXX.cxx.o] Error 1
+make: *** [cmTC_cccb0/fast] Error 2
+
+
+
+Checking whether CXX compiler struct stat has st_mtim member failed to compile with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/Utilities/KWSys/vtksys/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_e1063/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_e1063.dir/build.make CMakeFiles/cmTC_e1063.dir/build
+Building CXX object CMakeFiles/cmTC_e1063.dir/kwsysPlatformTestsCXX.cxx.o
+/Library/Developer/CommandLineTools/usr/bin/c++ -DTEST_KWSYS_CXX_STAT_HAS_ST_MTIM  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_e1063.dir/kwsysPlatformTestsCXX.cxx.o -MF CMakeFiles/cmTC_e1063.dir/kwsysPlatformTestsCXX.cxx.o.d -o CMakeFiles/cmTC_e1063.dir/kwsysPlatformTestsCXX.cxx.o -c /Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/KWSys/vtksys/kwsysPlatformTestsCXX.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/KWSys/vtksys/kwsysPlatformTestsCXX.cxx:43:15: error: no member named 'st_mtim' in 'stat'
+  (void)stat1.st_mtim.tv_sec;
+        ~~~~~ ^
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/KWSys/vtksys/kwsysPlatformTestsCXX.cxx:44:15: error: no member named 'st_mtim' in 'stat'
+  (void)stat1.st_mtim.tv_nsec;
+        ~~~~~ ^
+2 errors generated.
+make[1]: *** [CMakeFiles/cmTC_e1063.dir/kwsysPlatformTestsCXX.cxx.o] Error 1
+make: *** [cmTC_e1063/fast] Error 2
+
+
+
+Checking whether CXX compiler has rlimit64 failed to compile with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/Utilities/KWSys/vtksys/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_f0857/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_f0857.dir/build.make CMakeFiles/cmTC_f0857.dir/build
+Building CXX object CMakeFiles/cmTC_f0857.dir/kwsysPlatformTestsCXX.cxx.o
+/Library/Developer/CommandLineTools/usr/bin/c++ -DKWSYS_HAS_LFS=1 -DTEST_KWSYS_CXX_HAS_RLIMIT64  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_f0857.dir/kwsysPlatformTestsCXX.cxx.o -MF CMakeFiles/cmTC_f0857.dir/kwsysPlatformTestsCXX.cxx.o.d -o CMakeFiles/cmTC_f0857.dir/kwsysPlatformTestsCXX.cxx.o -c /Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/KWSys/vtksys/kwsysPlatformTestsCXX.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/KWSys/vtksys/kwsysPlatformTestsCXX.cxx:224:19: error: variable has incomplete type 'struct rlimit64'
+  struct rlimit64 rlim;
+                  ^
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/KWSys/vtksys/kwsysPlatformTestsCXX.cxx:224:10: note: forward declaration of 'rlimit64'
+  struct rlimit64 rlim;
+         ^
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_f0857.dir/kwsysPlatformTestsCXX.cxx.o] Error 1
+make: *** [cmTC_f0857/fast] Error 2
+
+
+
+Checking whether CXX compiler has _atoi64 failed to compile with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/Utilities/KWSys/vtksys/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_cdf35/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_cdf35.dir/build.make CMakeFiles/cmTC_cdf35.dir/build
+Building CXX object CMakeFiles/cmTC_cdf35.dir/kwsysPlatformTestsCXX.cxx.o
+/Library/Developer/CommandLineTools/usr/bin/c++ -DTEST_KWSYS_CXX_HAS__ATOI64  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_cdf35.dir/kwsysPlatformTestsCXX.cxx.o -MF CMakeFiles/cmTC_cdf35.dir/kwsysPlatformTestsCXX.cxx.o.d -o CMakeFiles/cmTC_cdf35.dir/kwsysPlatformTestsCXX.cxx.o -c /Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/KWSys/vtksys/kwsysPlatformTestsCXX.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/KWSys/vtksys/kwsysPlatformTestsCXX.cxx:252:27: error: use of undeclared identifier '_atoi64'
+  return static_cast<int>(_atoi64(str));
+                          ^
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_cdf35.dir/kwsysPlatformTestsCXX.cxx.o] Error 1
+make: *** [cmTC_cdf35/fast] Error 2
+
+
+
+Checking whether <ext/stdio_filebuf.h> is available failed to compile with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/Utilities/KWSys/vtksys/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_832d8/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_832d8.dir/build.make CMakeFiles/cmTC_832d8.dir/build
+Building CXX object CMakeFiles/cmTC_832d8.dir/kwsysPlatformTestsCXX.cxx.o
+/Library/Developer/CommandLineTools/usr/bin/c++ -DTEST_KWSYS_CXX_HAS_EXT_STDIO_FILEBUF_H  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_832d8.dir/kwsysPlatformTestsCXX.cxx.o -MF CMakeFiles/cmTC_832d8.dir/kwsysPlatformTestsCXX.cxx.o.d -o CMakeFiles/cmTC_832d8.dir/kwsysPlatformTestsCXX.cxx.o -c /Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/KWSys/vtksys/kwsysPlatformTestsCXX.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Utilities/KWSys/vtksys/kwsysPlatformTestsCXX.cxx:372:10: fatal error: 'ext/stdio_filebuf.h' file not found
+#include <ext/stdio_filebuf.h>
+         ^~~~~~~~~~~~~~~~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_832d8.dir/kwsysPlatformTestsCXX.cxx.o] Error 1
+make: *** [cmTC_832d8/fast] Error 2
+
+
+
+Determining if the feenableexcept exist failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_121e1/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_121e1.dir/build.make CMakeFiles/cmTC_121e1.dir/build
+Building C object CMakeFiles/cmTC_121e1.dir/CheckSymbolExists.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc -D_GNU_SOURCE  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_121e1.dir/CheckSymbolExists.c.o -MF CMakeFiles/cmTC_121e1.dir/CheckSymbolExists.c.o.d -o CMakeFiles/cmTC_121e1.dir/CheckSymbolExists.c.o -c /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: error: use of undeclared identifier 'feenableexcept'; did you mean 'feraiseexcept'?
+  return ((int*)(&feenableexcept))[argc];
+                  ^~~~~~~~~~~~~~
+                  feraiseexcept
+/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include/fenv.h:299:12: note: 'feraiseexcept' declared here
+extern int feraiseexcept(int /* excepts */);
+           ^
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_121e1.dir/CheckSymbolExists.c.o] Error 1
+make: *** [cmTC_121e1/fast] Error 2
+
+
+File /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <fenv.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef feenableexcept
+  return ((int*)(&feenableexcept))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the function getsockname exists in the socket failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_1e4d5/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_1e4d5.dir/build.make CMakeFiles/cmTC_1e4d5.dir/build
+Building C object CMakeFiles/cmTC_1e4d5.dir/CheckFunctionExists.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=getsockname -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_1e4d5.dir/CheckFunctionExists.c.o -MF CMakeFiles/cmTC_1e4d5.dir/CheckFunctionExists.c.o.d -o CMakeFiles/cmTC_1e4d5.dir/CheckFunctionExists.c.o -c /Applications/CMake.app/Contents/share/cmake-3.20/Modules/CheckFunctionExists.c
+Linking C executable cmTC_1e4d5
+/Applications/CMake.app/Contents/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1e4d5.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=getsockname -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cmTC_1e4d5.dir/CheckFunctionExists.c.o -o cmTC_1e4d5  -lsocket 
+ld: library not found for -lsocket
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+make[1]: *** [cmTC_1e4d5] Error 1
+make: *** [cmTC_1e4d5/fast] Error 2
+
+
+
+Performing C++ SOURCE FILE Test COMPILER_SUPPORT_wd981 failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_6d107/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_6d107.dir/build.make CMakeFiles/cmTC_6d107.dir/build
+Building CXX object CMakeFiles/cmTC_6d107.dir/src.cxx.o
+/Library/Developer/CommandLineTools/usr/bin/c++ -DCOMPILER_SUPPORT_wd981  -w -w -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wshorten-64-to-32 -Wlogical-op -Wenum-conversion -Wc++11-extensions -Wdouble-promotion -Wshadow -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -Werror -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -wd981 -std=c++11 -MD -MT CMakeFiles/cmTC_6d107.dir/src.cxx.o -MF CMakeFiles/cmTC_6d107.dir/src.cxx.o.d -o CMakeFiles/cmTC_6d107.dir/src.cxx.o -c /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/src.cxx
+clang: error: unknown argument: '-wd981'
+make[1]: *** [CMakeFiles/cmTC_6d107.dir/src.cxx.o] Error 1
+make: *** [cmTC_6d107/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_SUPPORT_wd2304 failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_731ef/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_731ef.dir/build.make CMakeFiles/cmTC_731ef.dir/build
+Building CXX object CMakeFiles/cmTC_731ef.dir/src.cxx.o
+/Library/Developer/CommandLineTools/usr/bin/c++ -DCOMPILER_SUPPORT_wd2304  -w -w -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wshorten-64-to-32 -Wlogical-op -Wenum-conversion -Wc++11-extensions -Wdouble-promotion -Wshadow -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -Werror -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -wd2304 -std=c++11 -MD -MT CMakeFiles/cmTC_731ef.dir/src.cxx.o -MF CMakeFiles/cmTC_731ef.dir/src.cxx.o.d -o CMakeFiles/cmTC_731ef.dir/src.cxx.o -c /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/src.cxx
+clang: error: unknown argument: '-wd2304'
+make[1]: *** [CMakeFiles/cmTC_731ef.dir/src.cxx.o] Error 1
+make: *** [cmTC_731ef/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_SUPPORT_STRICTANSI failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_0104d/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_0104d.dir/build.make CMakeFiles/cmTC_0104d.dir/build
+Building CXX object CMakeFiles/cmTC_0104d.dir/src.cxx.o
+/Library/Developer/CommandLineTools/usr/bin/c++ -DCOMPILER_SUPPORT_STRICTANSI  -w -w -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wshorten-64-to-32 -Wlogical-op -Wenum-conversion -Wc++11-extensions -Wdouble-promotion -Wshadow -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -Werror -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -strict-ansi -std=c++11 -MD -MT CMakeFiles/cmTC_0104d.dir/src.cxx.o -MF CMakeFiles/cmTC_0104d.dir/src.cxx.o.d -o CMakeFiles/cmTC_0104d.dir/src.cxx.o -c /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/src.cxx
+clang: error: unknown argument: '-strict-ansi'
+make[1]: *** [CMakeFiles/cmTC_0104d.dir/src.cxx.o] Error 1
+make: *** [cmTC_0104d/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_SUPPORT_OPENMP failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_cd57a/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_cd57a.dir/build.make CMakeFiles/cmTC_cd57a.dir/build
+Building CXX object CMakeFiles/cmTC_cd57a.dir/src.cxx.o
+/Library/Developer/CommandLineTools/usr/bin/c++ -DCOMPILER_SUPPORT_OPENMP  -w -w -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wshorten-64-to-32 -Wlogical-op -Wenum-conversion -Wc++11-extensions -Wdouble-promotion -Wshadow -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -Qunused-arguments -ansi  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -fopenmp -std=c++11 -MD -MT CMakeFiles/cmTC_cd57a.dir/src.cxx.o -MF CMakeFiles/cmTC_cd57a.dir/src.cxx.o.d -o CMakeFiles/cmTC_cd57a.dir/src.cxx.o -c /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/src.cxx
+clang: error: unsupported option '-fopenmp'
+make[1]: *** [CMakeFiles/cmTC_cd57a.dir/src.cxx.o] Error 1
+make: *** [cmTC_cd57a/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
+Determining size of off64_t failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_e444c/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_e444c.dir/build.make CMakeFiles/cmTC_e444c.dir/build
+Building C object CMakeFiles/cmTC_e444c.dir/OFF64_T.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc -D_LARGEFILE64_SOURCE=1  -w -w  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_e444c.dir/OFF64_T.c.o -MF CMakeFiles/cmTC_e444c.dir/OFF64_T.c.o.d -o CMakeFiles/cmTC_e444c.dir/OFF64_T.c.o -c /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/OFF64_T.c
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/OFF64_T.c:29:12: error: use of undeclared identifier 'off64_t'
+  ('0' + ((SIZE / 10000)%10)),
+           ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/OFF64_T.c:27:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(off64_t))
+                     ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/OFF64_T.c:30:12: error: use of undeclared identifier 'off64_t'
+  ('0' + ((SIZE / 1000)%10)),
+           ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/OFF64_T.c:27:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(off64_t))
+                     ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/OFF64_T.c:31:12: error: use of undeclared identifier 'off64_t'
+  ('0' + ((SIZE / 100)%10)),
+           ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/OFF64_T.c:27:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(off64_t))
+                     ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/OFF64_T.c:32:12: error: use of undeclared identifier 'off64_t'
+  ('0' + ((SIZE / 10)%10)),
+           ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/OFF64_T.c:27:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(off64_t))
+                     ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/OFF64_T.c:33:12: error: use of undeclared identifier 'off64_t'
+  ('0' +  (SIZE    % 10)),
+           ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/OFF64_T.c:27:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(off64_t))
+                     ^
+5 errors generated.
+make[1]: *** [CMakeFiles/cmTC_e444c.dir/OFF64_T.c.o] Error 1
+make: *** [cmTC_e444c/fast] Error 2
+
+
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/OFF64_T.c:
+#include <sys/types.h>
+#include <stdint.h>
+#include <stddef.h>
+
+
+#undef KEY
+#if defined(__i386)
+# define KEY '_','_','i','3','8','6'
+#elif defined(__x86_64)
+# define KEY '_','_','x','8','6','_','6','4'
+#elif defined(__PPC64__)
+# define KEY '_','_','P','P','C','6','4','_','_'
+#elif defined(__ppc64__)
+# define KEY '_','_','p','p','c','6','4','_','_'
+#elif defined(__PPC__)
+# define KEY '_','_','P','P','C','_','_'
+#elif defined(__ppc__)
+# define KEY '_','_','p','p','c','_','_'
+#elif defined(__aarch64__)
+# define KEY '_','_','a','a','r','c','h','6','4','_','_'
+#elif defined(__ARM_ARCH_7A__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','A','_','_'
+#elif defined(__ARM_ARCH_7S__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','S','_','_'
+#endif
+
+#define SIZE (sizeof(off64_t))
+static char info_size[] =  {'I', 'N', 'F', 'O', ':', 's','i','z','e','[',
+  ('0' + ((SIZE / 10000)%10)),
+  ('0' + ((SIZE / 1000)%10)),
+  ('0' + ((SIZE / 100)%10)),
+  ('0' + ((SIZE / 10)%10)),
+  ('0' +  (SIZE    % 10)),
+  ']',
+#ifdef KEY
+  ' ','k','e','y','[', KEY, ']',
+#endif
+  '\0'};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_size[argc];
+  (void)argv;
+  return require;
+}
+
+
+Determining if the include file byteswap.h exists failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_5951c/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_5951c.dir/build.make CMakeFiles/cmTC_5951c.dir/build
+Building C object CMakeFiles/cmTC_5951c.dir/CheckIncludeFile.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_5951c.dir/CheckIncludeFile.c.o -MF CMakeFiles/cmTC_5951c.dir/CheckIncludeFile.c.o.d -o CMakeFiles/cmTC_5951c.dir/CheckIncludeFile.c.o -c /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: 'byteswap.h' file not found
+#include <byteswap.h>
+         ^~~~~~~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_5951c.dir/CheckIncludeFile.c.o] Error 1
+make: *** [cmTC_5951c/fast] Error 2
+
+
+
+Determining if the include file sys/endian.h exists failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_11325/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_11325.dir/build.make CMakeFiles/cmTC_11325.dir/build
+Building C object CMakeFiles/cmTC_11325.dir/CheckIncludeFile.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_11325.dir/CheckIncludeFile.c.o -MF CMakeFiles/cmTC_11325.dir/CheckIncludeFile.c.o.d -o CMakeFiles/cmTC_11325.dir/CheckIncludeFile.c.o -c /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: 'sys/endian.h' file not found
+#include <sys/endian.h>
+         ^~~~~~~~~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_11325.dir/CheckIncludeFile.c.o] Error 1
+make: *** [cmTC_11325/fast] Error 2
+
+
+
+Determining size of __int64 failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_7dabe/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_7dabe.dir/build.make CMakeFiles/cmTC_7dabe.dir/build
+Building C object CMakeFiles/cmTC_7dabe.dir/__INT64.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_7dabe.dir/__INT64.c.o -MF CMakeFiles/cmTC_7dabe.dir/__INT64.c.o.d -o CMakeFiles/cmTC_7dabe.dir/__INT64.c.o -c /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/__INT64.c
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/__INT64.c:29:12: error: use of undeclared identifier '__int64'
+  ('0' + ((SIZE / 10000)%10)),
+           ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/__INT64.c:27:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(__int64))
+                     ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/__INT64.c:30:12: error: use of undeclared identifier '__int64'
+  ('0' + ((SIZE / 1000)%10)),
+           ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/__INT64.c:27:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(__int64))
+                     ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/__INT64.c:31:12: error: use of undeclared identifier '__int64'
+  ('0' + ((SIZE / 100)%10)),
+           ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/__INT64.c:27:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(__int64))
+                     ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/__INT64.c:32:12: error: use of undeclared identifier '__int64'
+  ('0' + ((SIZE / 10)%10)),
+           ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/__INT64.c:27:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(__int64))
+                     ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/__INT64.c:33:12: error: use of undeclared identifier '__int64'
+  ('0' +  (SIZE    % 10)),
+           ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/__INT64.c:27:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(__int64))
+                     ^
+5 errors generated.
+make[1]: *** [CMakeFiles/cmTC_7dabe.dir/__INT64.c.o] Error 1
+make: *** [cmTC_7dabe/fast] Error 2
+
+
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/__INT64.c:
+#include <sys/types.h>
+#include <stdint.h>
+#include <stddef.h>
+
+
+#undef KEY
+#if defined(__i386)
+# define KEY '_','_','i','3','8','6'
+#elif defined(__x86_64)
+# define KEY '_','_','x','8','6','_','6','4'
+#elif defined(__PPC64__)
+# define KEY '_','_','P','P','C','6','4','_','_'
+#elif defined(__ppc64__)
+# define KEY '_','_','p','p','c','6','4','_','_'
+#elif defined(__PPC__)
+# define KEY '_','_','P','P','C','_','_'
+#elif defined(__ppc__)
+# define KEY '_','_','p','p','c','_','_'
+#elif defined(__aarch64__)
+# define KEY '_','_','a','a','r','c','h','6','4','_','_'
+#elif defined(__ARM_ARCH_7A__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','A','_','_'
+#elif defined(__ARM_ARCH_7S__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','S','_','_'
+#endif
+
+#define SIZE (sizeof(__int64))
+static char info_size[] =  {'I', 'N', 'F', 'O', ':', 's','i','z','e','[',
+  ('0' + ((SIZE / 10000)%10)),
+  ('0' + ((SIZE / 1000)%10)),
+  ('0' + ((SIZE / 100)%10)),
+  ('0' + ((SIZE / 10)%10)),
+  ('0' +  (SIZE    % 10)),
+  ']',
+#ifdef KEY
+  ' ','k','e','y','[', KEY, ']',
+#endif
+  '\0'};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_size[argc];
+  (void)argv;
+  return require;
+}
+
+
+Determining size of unsigned __int64 failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_8fc37/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_8fc37.dir/build.make CMakeFiles/cmTC_8fc37.dir/build
+Building C object CMakeFiles/cmTC_8fc37.dir/UNSIGNED___INT64.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_8fc37.dir/UNSIGNED___INT64.c.o -MF CMakeFiles/cmTC_8fc37.dir/UNSIGNED___INT64.c.o.d -o CMakeFiles/cmTC_8fc37.dir/UNSIGNED___INT64.c.o -c /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/UNSIGNED___INT64.c
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/UNSIGNED___INT64.c:29:12: error: expected ')'
+  ('0' + ((SIZE / 10000)%10)),
+           ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/UNSIGNED___INT64.c:27:31: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(unsigned __int64))
+                              ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/UNSIGNED___INT64.c:29:12: note: to match this '('
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/UNSIGNED___INT64.c:27:21: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(unsigned __int64))
+                    ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/UNSIGNED___INT64.c:30:12: error: expected ')'
+  ('0' + ((SIZE / 1000)%10)),
+           ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/UNSIGNED___INT64.c:27:31: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(unsigned __int64))
+                              ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/UNSIGNED___INT64.c:30:12: note: to match this '('
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/UNSIGNED___INT64.c:27:21: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(unsigned __int64))
+                    ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/UNSIGNED___INT64.c:31:12: error: expected ')'
+  ('0' + ((SIZE / 100)%10)),
+           ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/UNSIGNED___INT64.c:27:31: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(unsigned __int64))
+                              ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/UNSIGNED___INT64.c:31:12: note: to match this '('
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/UNSIGNED___INT64.c:27:21: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(unsigned __int64))
+                    ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/UNSIGNED___INT64.c:32:12: error: expected ')'
+  ('0' + ((SIZE / 10)%10)),
+           ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/UNSIGNED___INT64.c:27:31: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(unsigned __int64))
+                              ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/UNSIGNED___INT64.c:32:12: note: to match this '('
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/UNSIGNED___INT64.c:27:21: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(unsigned __int64))
+                    ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/UNSIGNED___INT64.c:33:12: error: expected ')'
+  ('0' +  (SIZE    % 10)),
+           ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/UNSIGNED___INT64.c:27:31: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(unsigned __int64))
+                              ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/UNSIGNED___INT64.c:33:12: note: to match this '('
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/UNSIGNED___INT64.c:27:21: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(unsigned __int64))
+                    ^
+5 errors generated.
+make[1]: *** [CMakeFiles/cmTC_8fc37.dir/UNSIGNED___INT64.c.o] Error 1
+make: *** [cmTC_8fc37/fast] Error 2
+
+
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/UNSIGNED___INT64.c:
+#include <sys/types.h>
+#include <stdint.h>
+#include <stddef.h>
+
+
+#undef KEY
+#if defined(__i386)
+# define KEY '_','_','i','3','8','6'
+#elif defined(__x86_64)
+# define KEY '_','_','x','8','6','_','6','4'
+#elif defined(__PPC64__)
+# define KEY '_','_','P','P','C','6','4','_','_'
+#elif defined(__ppc64__)
+# define KEY '_','_','p','p','c','6','4','_','_'
+#elif defined(__PPC__)
+# define KEY '_','_','P','P','C','_','_'
+#elif defined(__ppc__)
+# define KEY '_','_','p','p','c','_','_'
+#elif defined(__aarch64__)
+# define KEY '_','_','a','a','r','c','h','6','4','_','_'
+#elif defined(__ARM_ARCH_7A__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','A','_','_'
+#elif defined(__ARM_ARCH_7S__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','S','_','_'
+#endif
+
+#define SIZE (sizeof(unsigned __int64))
+static char info_size[] =  {'I', 'N', 'F', 'O', ':', 's','i','z','e','[',
+  ('0' + ((SIZE / 10000)%10)),
+  ('0' + ((SIZE / 1000)%10)),
+  ('0' + ((SIZE / 100)%10)),
+  ('0' + ((SIZE / 10)%10)),
+  ('0' +  (SIZE    % 10)),
+  ']',
+#ifdef KEY
+  ' ','k','e','y','[', KEY, ']',
+#endif
+  '\0'};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_size[argc];
+  (void)argv;
+  return require;
+}
+
+
+Determining if the getrandom exist failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_53c2a/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_53c2a.dir/build.make CMakeFiles/cmTC_53c2a.dir/build
+Building C object CMakeFiles/cmTC_53c2a.dir/CheckSymbolExists.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_53c2a.dir/CheckSymbolExists.c.o -MF CMakeFiles/cmTC_53c2a.dir/CheckSymbolExists.c.o.d -o CMakeFiles/cmTC_53c2a.dir/CheckSymbolExists.c.o -c /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+In file included from /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:2:
+/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include/sys/random.h:36:21: error: expected parameter declarator
+    __OSX_AVAILABLE(10.12) __IOS_AVAILABLE(10.0) __TVOS_AVAILABLE(10.0) __WATCHOS_AVAILABLE(3.0)
+                    ^
+/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include/sys/random.h:36:21: error: expected ')'
+/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include/sys/random.h:36:20: note: to match this '('
+    __OSX_AVAILABLE(10.12) __IOS_AVAILABLE(10.0) __TVOS_AVAILABLE(10.0) __WATCHOS_AVAILABLE(3.0)
+                   ^
+/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include/sys/random.h:36:28: error: expected function body after function declarator
+    __OSX_AVAILABLE(10.12) __IOS_AVAILABLE(10.0) __TVOS_AVAILABLE(10.0) __WATCHOS_AVAILABLE(3.0)
+                           ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: error: use of undeclared identifier 'getrandom'
+  return ((int*)(&getrandom))[argc];
+                  ^
+4 errors generated.
+make[1]: *** [CMakeFiles/cmTC_53c2a.dir/CheckSymbolExists.c.o] Error 1
+make: *** [cmTC_53c2a/fast] Error 2
+
+
+File /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <sys/random.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef getrandom
+  return ((int*)(&getrandom))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the off_t exist failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_3587d/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_3587d.dir/build.make CMakeFiles/cmTC_3587d.dir/build
+Building C object CMakeFiles/cmTC_3587d.dir/CheckSymbolExists.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_3587d.dir/CheckSymbolExists.c.o -MF CMakeFiles/cmTC_3587d.dir/CheckSymbolExists.c.o.d -o CMakeFiles/cmTC_3587d.dir/CheckSymbolExists.c.o -c /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: error: unexpected type name 'off_t': expected expression
+  return ((int*)(&off_t))[argc];
+                  ^
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_3587d.dir/CheckSymbolExists.c.o] Error 1
+make: *** [cmTC_3587d/fast] Error 2
+
+
+File /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <sys/types.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef off_t
+  return ((int*)(&off_t))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the size_t exist failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_8f882/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_8f882.dir/build.make CMakeFiles/cmTC_8f882.dir/build
+Building C object CMakeFiles/cmTC_8f882.dir/CheckSymbolExists.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_8f882.dir/CheckSymbolExists.c.o -MF CMakeFiles/cmTC_8f882.dir/CheckSymbolExists.c.o.d -o CMakeFiles/cmTC_8f882.dir/CheckSymbolExists.c.o -c /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: error: unexpected type name 'size_t': expected expression
+  return ((int*)(&size_t))[argc];
+                  ^
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_8f882.dir/CheckSymbolExists.c.o] Error 1
+make: *** [cmTC_8f882/fast] Error 2
+
+
+File /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <sys/types.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef size_t
+  return ((int*)(&size_t))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Performing C SOURCE FILE Test HAVE_SYSCALL_GETRANDOM failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_4050a/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_4050a.dir/build.make CMakeFiles/cmTC_4050a.dir/build
+Building C object CMakeFiles/cmTC_4050a.dir/src.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc -DHAVE_SYSCALL_GETRANDOM  -w -w  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_4050a.dir/src.c.o -MF CMakeFiles/cmTC_4050a.dir/src.c.o.d -o CMakeFiles/cmTC_4050a.dir/src.c.o -c /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/src.c
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/src.c:6:21: error: use of undeclared identifier 'SYS_getrandom'
+            syscall(SYS_getrandom, NULL, 0, 0);
+                    ^
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_4050a.dir/src.c.o] Error 1
+make: *** [cmTC_4050a/fast] Error 2
+
+
+Source file was:
+
+        #include <stdlib.h>  /* for NULL */
+        #include <unistd.h>  /* for syscall */
+        #include <sys/syscall.h>  /* for SYS_getrandom */
+        int main() {
+            syscall(SYS_getrandom, NULL, 0, 0);
+            return 0;
+        }
+Performing C SOURCE FILE Test HAVE_LD_VERSION_SCRIPT failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_9364d/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_9364d.dir/build.make CMakeFiles/cmTC_9364d.dir/build
+Building C object CMakeFiles/cmTC_9364d.dir/src.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc -DHAVE_LD_VERSION_SCRIPT  -w -w -Wall -Winline -W -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -Wdeclaration-after-statement -fstrict-aliasing -Wl,--version-script=/Users/biyeuphuong/Desktop/CIS541/build/ThirdParty/tiff/vtktiff/conftest.map -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_9364d.dir/src.c.o -MF CMakeFiles/cmTC_9364d.dir/src.c.o.d -o CMakeFiles/cmTC_9364d.dir/src.c.o -c /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_9364d
+/Applications/CMake.app/Contents/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9364d.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w -Wall -Winline -W -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -Wdeclaration-after-statement -fstrict-aliasing -Wl,--version-script=/Users/biyeuphuong/Desktop/CIS541/build/ThirdParty/tiff/vtktiff/conftest.map -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cmTC_9364d.dir/src.c.o -o cmTC_9364d 
+ld: unknown option: --version-script=/Users/biyeuphuong/Desktop/CIS541/build/ThirdParty/tiff/vtktiff/conftest.map
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+make[1]: *** [cmTC_9364d] Error 1
+make: *** [cmTC_9364d/fast] Error 2
+
+
+Source file was:
+int main(void){return 0;}
+Determining if the include file io.h exists failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_3892a/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_3892a.dir/build.make CMakeFiles/cmTC_3892a.dir/build
+Building C object CMakeFiles/cmTC_3892a.dir/CheckIncludeFile.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w -Wall -Winline -W -Wformat-security -Wpointer-arith -Wdisabled-optimization -Wno-unknown-pragmas -Wdeclaration-after-statement -fstrict-aliasing  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_3892a.dir/CheckIncludeFile.c.o -MF CMakeFiles/cmTC_3892a.dir/CheckIncludeFile.c.o.d -o CMakeFiles/cmTC_3892a.dir/CheckIncludeFile.c.o -c /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: 'io.h' file not found
+#include <io.h>
+         ^~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_3892a.dir/CheckIncludeFile.c.o] Error 1
+make: *** [cmTC_3892a/fast] Error 2
+
+
+
+Determining if files sys/file.h;sys/ioctl.h;sys/resource.h;sys/stat.h;sys/time.h;sys/types.h;features.h exist failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_aa65f/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_aa65f.dir/build.make CMakeFiles/cmTC_aa65f.dir/build
+Building C object CMakeFiles/cmTC_aa65f.dir/H5_HAVE_FEATURES_H.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_aa65f.dir/H5_HAVE_FEATURES_H.c.o -MF CMakeFiles/cmTC_aa65f.dir/H5_HAVE_FEATURES_H.c.o.d -o CMakeFiles/cmTC_aa65f.dir/H5_HAVE_FEATURES_H.c.o -c /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckIncludeFiles/H5_HAVE_FEATURES_H.c
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckIncludeFiles/H5_HAVE_FEATURES_H.c:8:10: fatal error: 'features.h' file not found
+#include <features.h>
+         ^~~~~~~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_aa65f.dir/H5_HAVE_FEATURES_H.c.o] Error 1
+make: *** [cmTC_aa65f/fast] Error 2
+
+
+Source:
+/* */
+#include <sys/file.h>
+#include <sys/ioctl.h>
+#include <sys/resource.h>
+#include <sys/stat.h>
+#include <sys/time.h>
+#include <sys/types.h>
+#include <features.h>
+
+
+int main(void){return 0;}
+
+Determining if files sys/file.h;sys/ioctl.h;sys/resource.h;sys/stat.h;sys/time.h;sys/types.h;dirent.h;setjmp.h;stddef.h;stdint.h;unistd.h;io.h exist failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_a1611/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_a1611.dir/build.make CMakeFiles/cmTC_a1611.dir/build
+Building C object CMakeFiles/cmTC_a1611.dir/H5_HAVE_IO_H.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_a1611.dir/H5_HAVE_IO_H.c.o -MF CMakeFiles/cmTC_a1611.dir/H5_HAVE_IO_H.c.o.d -o CMakeFiles/cmTC_a1611.dir/H5_HAVE_IO_H.c.o -c /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckIncludeFiles/H5_HAVE_IO_H.c
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckIncludeFiles/H5_HAVE_IO_H.c:13:10: fatal error: 'io.h' file not found
+#include <io.h>
+         ^~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_a1611.dir/H5_HAVE_IO_H.c.o] Error 1
+make: *** [cmTC_a1611/fast] Error 2
+
+
+Source:
+/* */
+#include <sys/file.h>
+#include <sys/ioctl.h>
+#include <sys/resource.h>
+#include <sys/stat.h>
+#include <sys/time.h>
+#include <sys/types.h>
+#include <dirent.h>
+#include <setjmp.h>
+#include <stddef.h>
+#include <stdint.h>
+#include <unistd.h>
+#include <io.h>
+
+
+int main(void){return 0;}
+
+Determining if files sys/file.h;sys/ioctl.h;sys/resource.h;sys/stat.h;sys/time.h;sys/types.h;dirent.h;setjmp.h;stddef.h;stdint.h;unistd.h;winsock2.h exist failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_f9b14/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_f9b14.dir/build.make CMakeFiles/cmTC_f9b14.dir/build
+Building C object CMakeFiles/cmTC_f9b14.dir/H5_HAVE_WINSOCK2_H.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_f9b14.dir/H5_HAVE_WINSOCK2_H.c.o -MF CMakeFiles/cmTC_f9b14.dir/H5_HAVE_WINSOCK2_H.c.o.d -o CMakeFiles/cmTC_f9b14.dir/H5_HAVE_WINSOCK2_H.c.o -c /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckIncludeFiles/H5_HAVE_WINSOCK2_H.c
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckIncludeFiles/H5_HAVE_WINSOCK2_H.c:13:10: fatal error: 'winsock2.h' file not found
+#include <winsock2.h>
+         ^~~~~~~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_f9b14.dir/H5_HAVE_WINSOCK2_H.c.o] Error 1
+make: *** [cmTC_f9b14/fast] Error 2
+
+
+Source:
+/* */
+#include <sys/file.h>
+#include <sys/ioctl.h>
+#include <sys/resource.h>
+#include <sys/stat.h>
+#include <sys/time.h>
+#include <sys/types.h>
+#include <dirent.h>
+#include <setjmp.h>
+#include <stddef.h>
+#include <stdint.h>
+#include <unistd.h>
+#include <winsock2.h>
+
+
+int main(void){return 0;}
+
+Determining size of __int64 failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_23839/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_23839.dir/build.make CMakeFiles/cmTC_23839.dir/build
+Building C object CMakeFiles/cmTC_23839.dir/H5_SIZEOF___INT64.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_23839.dir/H5_SIZEOF___INT64.c.o -MF CMakeFiles/cmTC_23839.dir/H5_SIZEOF___INT64.c.o.d -o CMakeFiles/cmTC_23839.dir/H5_SIZEOF___INT64.c.o -c /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/H5_SIZEOF___INT64.c
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/H5_SIZEOF___INT64.c:29:12: error: use of undeclared identifier '__int64'
+  ('0' + ((SIZE / 10000)%10)),
+           ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/H5_SIZEOF___INT64.c:27:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(__int64))
+                     ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/H5_SIZEOF___INT64.c:30:12: error: use of undeclared identifier '__int64'
+  ('0' + ((SIZE / 1000)%10)),
+           ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/H5_SIZEOF___INT64.c:27:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(__int64))
+                     ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/H5_SIZEOF___INT64.c:31:12: error: use of undeclared identifier '__int64'
+  ('0' + ((SIZE / 100)%10)),
+           ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/H5_SIZEOF___INT64.c:27:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(__int64))
+                     ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/H5_SIZEOF___INT64.c:32:12: error: use of undeclared identifier '__int64'
+  ('0' + ((SIZE / 10)%10)),
+           ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/H5_SIZEOF___INT64.c:27:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(__int64))
+                     ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/H5_SIZEOF___INT64.c:33:12: error: use of undeclared identifier '__int64'
+  ('0' +  (SIZE    % 10)),
+           ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/H5_SIZEOF___INT64.c:27:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(__int64))
+                     ^
+5 errors generated.
+make[1]: *** [CMakeFiles/cmTC_23839.dir/H5_SIZEOF___INT64.c.o] Error 1
+make: *** [cmTC_23839/fast] Error 2
+
+
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/H5_SIZEOF___INT64.c:
+#include <sys/types.h>
+#include <stdint.h>
+#include <stddef.h>
+
+
+#undef KEY
+#if defined(__i386)
+# define KEY '_','_','i','3','8','6'
+#elif defined(__x86_64)
+# define KEY '_','_','x','8','6','_','6','4'
+#elif defined(__PPC64__)
+# define KEY '_','_','P','P','C','6','4','_','_'
+#elif defined(__ppc64__)
+# define KEY '_','_','p','p','c','6','4','_','_'
+#elif defined(__PPC__)
+# define KEY '_','_','P','P','C','_','_'
+#elif defined(__ppc__)
+# define KEY '_','_','p','p','c','_','_'
+#elif defined(__aarch64__)
+# define KEY '_','_','a','a','r','c','h','6','4','_','_'
+#elif defined(__ARM_ARCH_7A__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','A','_','_'
+#elif defined(__ARM_ARCH_7S__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','S','_','_'
+#endif
+
+#define SIZE (sizeof(__int64))
+static char info_size[] =  {'I', 'N', 'F', 'O', ':', 's','i','z','e','[',
+  ('0' + ((SIZE / 10000)%10)),
+  ('0' + ((SIZE / 1000)%10)),
+  ('0' + ((SIZE / 100)%10)),
+  ('0' + ((SIZE / 10)%10)),
+  ('0' +  (SIZE    % 10)),
+  ']',
+#ifdef KEY
+  ' ','k','e','y','[', KEY, ']',
+#endif
+  '\0'};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_size[argc];
+  (void)argv;
+  return require;
+}
+
+
+Determining size of off64_t failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_983e5/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_983e5.dir/build.make CMakeFiles/cmTC_983e5.dir/build
+Building C object CMakeFiles/cmTC_983e5.dir/H5_SIZEOF_OFF64_T.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_983e5.dir/H5_SIZEOF_OFF64_T.c.o -MF CMakeFiles/cmTC_983e5.dir/H5_SIZEOF_OFF64_T.c.o.d -o CMakeFiles/cmTC_983e5.dir/H5_SIZEOF_OFF64_T.c.o -c /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/H5_SIZEOF_OFF64_T.c
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/H5_SIZEOF_OFF64_T.c:29:12: error: use of undeclared identifier 'off64_t'
+  ('0' + ((SIZE / 10000)%10)),
+           ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/H5_SIZEOF_OFF64_T.c:27:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(off64_t))
+                     ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/H5_SIZEOF_OFF64_T.c:30:12: error: use of undeclared identifier 'off64_t'
+  ('0' + ((SIZE / 1000)%10)),
+           ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/H5_SIZEOF_OFF64_T.c:27:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(off64_t))
+                     ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/H5_SIZEOF_OFF64_T.c:31:12: error: use of undeclared identifier 'off64_t'
+  ('0' + ((SIZE / 100)%10)),
+           ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/H5_SIZEOF_OFF64_T.c:27:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(off64_t))
+                     ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/H5_SIZEOF_OFF64_T.c:32:12: error: use of undeclared identifier 'off64_t'
+  ('0' + ((SIZE / 10)%10)),
+           ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/H5_SIZEOF_OFF64_T.c:27:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(off64_t))
+                     ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/H5_SIZEOF_OFF64_T.c:33:12: error: use of undeclared identifier 'off64_t'
+  ('0' +  (SIZE    % 10)),
+           ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/H5_SIZEOF_OFF64_T.c:27:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(off64_t))
+                     ^
+5 errors generated.
+make[1]: *** [CMakeFiles/cmTC_983e5.dir/H5_SIZEOF_OFF64_T.c.o] Error 1
+make: *** [cmTC_983e5/fast] Error 2
+
+
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/H5_SIZEOF_OFF64_T.c:
+#include <sys/types.h>
+#include <stdint.h>
+#include <stddef.h>
+
+
+#undef KEY
+#if defined(__i386)
+# define KEY '_','_','i','3','8','6'
+#elif defined(__x86_64)
+# define KEY '_','_','x','8','6','_','6','4'
+#elif defined(__PPC64__)
+# define KEY '_','_','P','P','C','6','4','_','_'
+#elif defined(__ppc64__)
+# define KEY '_','_','p','p','c','6','4','_','_'
+#elif defined(__PPC__)
+# define KEY '_','_','P','P','C','_','_'
+#elif defined(__ppc__)
+# define KEY '_','_','p','p','c','_','_'
+#elif defined(__aarch64__)
+# define KEY '_','_','a','a','r','c','h','6','4','_','_'
+#elif defined(__ARM_ARCH_7A__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','A','_','_'
+#elif defined(__ARM_ARCH_7S__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','S','_','_'
+#endif
+
+#define SIZE (sizeof(off64_t))
+static char info_size[] =  {'I', 'N', 'F', 'O', ':', 's','i','z','e','[',
+  ('0' + ((SIZE / 10000)%10)),
+  ('0' + ((SIZE / 1000)%10)),
+  ('0' + ((SIZE / 100)%10)),
+  ('0' + ((SIZE / 10)%10)),
+  ('0' +  (SIZE    % 10)),
+  ']',
+#ifdef KEY
+  ' ','k','e','y','[', KEY, ']',
+#endif
+  '\0'};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_size[argc];
+  (void)argv;
+  return require;
+}
+
+
+Performing Other Test HAVE___TM_GMTOFF failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_ba9bf/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_ba9bf.dir/build.make CMakeFiles/cmTC_ba9bf.dir/build
+Building C object CMakeFiles/cmTC_ba9bf.dir/HDFTests.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w -DHAVE___TM_GMTOFF  -DHAVE_SYS_TIME_H -DHAVE_UNISTD_H -DHAVE_SYS_TYPES_H -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_ba9bf.dir/HDFTests.c.o -MF CMakeFiles/cmTC_ba9bf.dir/HDFTests.c.o.d -o CMakeFiles/cmTC_ba9bf.dir/HDFTests.c.o -c /Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/hdf5/vtkhdf5/config/cmake_ext_mod/HDFTests.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/hdf5/vtkhdf5/config/cmake_ext_mod/HDFTests.c:156:30: error: no member named '__tm_gmtoff' in 'struct tm'; did you mean 'tm_gmtoff'?
+SIMPLE_TEST(struct tm tm; tm.__tm_gmtoff=0);
+                             ^~~~~~~~~~~
+                             tm_gmtoff
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/hdf5/vtkhdf5/config/cmake_ext_mod/HDFTests.c:12:36: note: expanded from macro 'SIMPLE_TEST'
+#define SIMPLE_TEST(x) int main(){ x; return 0; }
+                                   ^
+/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include/time.h:85:7: note: 'tm_gmtoff' declared here
+        long    tm_gmtoff;      /* offset from UTC in seconds */
+                ^
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_ba9bf.dir/HDFTests.c.o] Error 1
+make: *** [cmTC_ba9bf/fast] Error 2
+
+
+Performing Other Test HAVE_TM_ZONE failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_af547/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_af547.dir/build.make CMakeFiles/cmTC_af547.dir/build
+Building C object CMakeFiles/cmTC_af547.dir/HDFTests.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w -DHAVE_TM_ZONE  -DHAVE_SYS_TIME_H -DHAVE_UNISTD_H -DHAVE_SYS_TYPES_H -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_af547.dir/HDFTests.c.o -MF CMakeFiles/cmTC_af547.dir/HDFTests.c.o.d -o CMakeFiles/cmTC_af547.dir/HDFTests.c.o -c /Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/hdf5/vtkhdf5/config/cmake_ext_mod/HDFTests.c
+Linking C executable cmTC_af547
+/Applications/CMake.app/Contents/bin/cmake -E cmake_link_script CMakeFiles/cmTC_af547.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w -DHAVE_TM_ZONE  -DHAVE_SYS_TIME_H -DHAVE_UNISTD_H -DHAVE_SYS_TYPES_H -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cmTC_af547.dir/HDFTests.c.o -o cmTC_af547 
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+make[1]: *** [cmTC_af547] Error 1
+make: *** [cmTC_af547/fast] Error 2
+
+
+Performing Other Test HAVE_STRUCT_TM_TM_ZONE failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_2a2d0/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_2a2d0.dir/build.make CMakeFiles/cmTC_2a2d0.dir/build
+Building C object CMakeFiles/cmTC_2a2d0.dir/HDFTests.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w -DHAVE_STRUCT_TM_TM_ZONE  -DHAVE_SYS_TIME_H -DHAVE_UNISTD_H -DHAVE_SYS_TYPES_H -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_2a2d0.dir/HDFTests.c.o -MF CMakeFiles/cmTC_2a2d0.dir/HDFTests.c.o.d -o CMakeFiles/cmTC_2a2d0.dir/HDFTests.c.o -c /Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/hdf5/vtkhdf5/config/cmake_ext_mod/HDFTests.c
+Linking C executable cmTC_2a2d0
+/Applications/CMake.app/Contents/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2a2d0.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w -DHAVE_STRUCT_TM_TM_ZONE  -DHAVE_SYS_TIME_H -DHAVE_UNISTD_H -DHAVE_SYS_TYPES_H -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cmTC_2a2d0.dir/HDFTests.c.o -o cmTC_2a2d0 
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+make[1]: *** [cmTC_2a2d0] Error 1
+make: *** [cmTC_2a2d0/fast] Error 2
+
+
+Performing Other Test HAVE_STRUCT_VIDEOCONFIG failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_cadbb/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_cadbb.dir/build.make CMakeFiles/cmTC_cadbb.dir/build
+Building C object CMakeFiles/cmTC_cadbb.dir/HDFTests.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w -DHAVE_STRUCT_VIDEOCONFIG  -DHAVE_SYS_TIME_H -DHAVE_UNISTD_H -DHAVE_SYS_TYPES_H -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_cadbb.dir/HDFTests.c.o -MF CMakeFiles/cmTC_cadbb.dir/HDFTests.c.o.d -o CMakeFiles/cmTC_cadbb.dir/HDFTests.c.o -c /Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/hdf5/vtkhdf5/config/cmake_ext_mod/HDFTests.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/hdf5/vtkhdf5/config/cmake_ext_mod/HDFTests.c:412:32: error: variable has incomplete type 'struct videoconfig'
+SIMPLE_TEST(struct videoconfig w; w.numtextcols=0);
+                               ^
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/hdf5/vtkhdf5/config/cmake_ext_mod/HDFTests.c:412:20: note: forward declaration of 'struct videoconfig'
+SIMPLE_TEST(struct videoconfig w; w.numtextcols=0);
+                   ^
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_cadbb.dir/HDFTests.c.o] Error 1
+make: *** [cmTC_cadbb/fast] Error 2
+
+
+Performing Other Test HAVE_STRUCT_TEXT_INFO failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_72311/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_72311.dir/build.make CMakeFiles/cmTC_72311.dir/build
+Building C object CMakeFiles/cmTC_72311.dir/HDFTests.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w -DHAVE_STRUCT_TEXT_INFO  -DHAVE_SYS_TIME_H -DHAVE_UNISTD_H -DHAVE_SYS_TYPES_H -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_72311.dir/HDFTests.c.o -MF CMakeFiles/cmTC_72311.dir/HDFTests.c.o.d -o CMakeFiles/cmTC_72311.dir/HDFTests.c.o -c /Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/hdf5/vtkhdf5/config/cmake_ext_mod/HDFTests.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/hdf5/vtkhdf5/config/cmake_ext_mod/HDFTests.c:418:30: error: variable has incomplete type 'struct text_info'
+SIMPLE_TEST(struct text_info w; w.screenwidth=0);
+                             ^
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/hdf5/vtkhdf5/config/cmake_ext_mod/HDFTests.c:418:20: note: forward declaration of 'struct text_info'
+SIMPLE_TEST(struct text_info w; w.screenwidth=0);
+                   ^
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_72311.dir/HDFTests.c.o] Error 1
+make: *** [cmTC_72311/fast] Error 2
+
+
+Determining if the function _getvideoconfig exists failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_48f49/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_48f49.dir/build.make CMakeFiles/cmTC_48f49.dir/build
+Building C object CMakeFiles/cmTC_48f49.dir/CheckFunctionExists.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w -DCHECK_FUNCTION_EXISTS=_getvideoconfig -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_48f49.dir/CheckFunctionExists.c.o -MF CMakeFiles/cmTC_48f49.dir/CheckFunctionExists.c.o.d -o CMakeFiles/cmTC_48f49.dir/CheckFunctionExists.c.o -c /Applications/CMake.app/Contents/share/cmake-3.20/Modules/CheckFunctionExists.c
+Linking C executable cmTC_48f49
+/Applications/CMake.app/Contents/bin/cmake -E cmake_link_script CMakeFiles/cmTC_48f49.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w -DCHECK_FUNCTION_EXISTS=_getvideoconfig -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cmTC_48f49.dir/CheckFunctionExists.c.o -o cmTC_48f49 
+Undefined symbols for architecture x86_64:
+  "__getvideoconfig", referenced from:
+      _main in CheckFunctionExists.c.o
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+make[1]: *** [cmTC_48f49] Error 1
+make: *** [cmTC_48f49/fast] Error 2
+
+
+
+Determining if the function gettextinfo exists failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_13242/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_13242.dir/build.make CMakeFiles/cmTC_13242.dir/build
+Building C object CMakeFiles/cmTC_13242.dir/CheckFunctionExists.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w -DCHECK_FUNCTION_EXISTS=gettextinfo -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_13242.dir/CheckFunctionExists.c.o -MF CMakeFiles/cmTC_13242.dir/CheckFunctionExists.c.o.d -o CMakeFiles/cmTC_13242.dir/CheckFunctionExists.c.o -c /Applications/CMake.app/Contents/share/cmake-3.20/Modules/CheckFunctionExists.c
+Linking C executable cmTC_13242
+/Applications/CMake.app/Contents/bin/cmake -E cmake_link_script CMakeFiles/cmTC_13242.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w -DCHECK_FUNCTION_EXISTS=gettextinfo -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cmTC_13242.dir/CheckFunctionExists.c.o -o cmTC_13242 
+Undefined symbols for architecture x86_64:
+  "_gettextinfo", referenced from:
+      _main in CheckFunctionExists.c.o
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+make[1]: *** [cmTC_13242] Error 1
+make: *** [cmTC_13242/fast] Error 2
+
+
+
+Determining if the function _scrsize exists failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_f4b3f/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_f4b3f.dir/build.make CMakeFiles/cmTC_f4b3f.dir/build
+Building C object CMakeFiles/cmTC_f4b3f.dir/CheckFunctionExists.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w -DCHECK_FUNCTION_EXISTS=_scrsize -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_f4b3f.dir/CheckFunctionExists.c.o -MF CMakeFiles/cmTC_f4b3f.dir/CheckFunctionExists.c.o.d -o CMakeFiles/cmTC_f4b3f.dir/CheckFunctionExists.c.o -c /Applications/CMake.app/Contents/share/cmake-3.20/Modules/CheckFunctionExists.c
+Linking C executable cmTC_f4b3f
+/Applications/CMake.app/Contents/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f4b3f.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w -DCHECK_FUNCTION_EXISTS=_scrsize -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cmTC_f4b3f.dir/CheckFunctionExists.c.o -o cmTC_f4b3f 
+Undefined symbols for architecture x86_64:
+  "__scrsize", referenced from:
+      _main in CheckFunctionExists.c.o
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+make[1]: *** [cmTC_f4b3f] Error 1
+make: *** [cmTC_f4b3f/fast] Error 2
+
+
+
+Determining if the function GetConsoleScreenBufferInfo exists failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_a2f46/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_a2f46.dir/build.make CMakeFiles/cmTC_a2f46.dir/build
+Building C object CMakeFiles/cmTC_a2f46.dir/CheckFunctionExists.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w -DCHECK_FUNCTION_EXISTS=GetConsoleScreenBufferInfo -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_a2f46.dir/CheckFunctionExists.c.o -MF CMakeFiles/cmTC_a2f46.dir/CheckFunctionExists.c.o.d -o CMakeFiles/cmTC_a2f46.dir/CheckFunctionExists.c.o -c /Applications/CMake.app/Contents/share/cmake-3.20/Modules/CheckFunctionExists.c
+Linking C executable cmTC_a2f46
+/Applications/CMake.app/Contents/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a2f46.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w -DCHECK_FUNCTION_EXISTS=GetConsoleScreenBufferInfo -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cmTC_a2f46.dir/CheckFunctionExists.c.o -o cmTC_a2f46 
+Undefined symbols for architecture x86_64:
+  "_GetConsoleScreenBufferInfo", referenced from:
+      _main in CheckFunctionExists.c.o
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+make[1]: *** [cmTC_a2f46] Error 1
+make: *** [cmTC_a2f46/fast] Error 2
+
+
+
+Determining if the function setsysinfo exists failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_25e4b/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_25e4b.dir/build.make CMakeFiles/cmTC_25e4b.dir/build
+Building C object CMakeFiles/cmTC_25e4b.dir/CheckFunctionExists.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w -DCHECK_FUNCTION_EXISTS=setsysinfo -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_25e4b.dir/CheckFunctionExists.c.o -MF CMakeFiles/cmTC_25e4b.dir/CheckFunctionExists.c.o.d -o CMakeFiles/cmTC_25e4b.dir/CheckFunctionExists.c.o -c /Applications/CMake.app/Contents/share/cmake-3.20/Modules/CheckFunctionExists.c
+Linking C executable cmTC_25e4b
+/Applications/CMake.app/Contents/bin/cmake -E cmake_link_script CMakeFiles/cmTC_25e4b.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w -DCHECK_FUNCTION_EXISTS=setsysinfo -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cmTC_25e4b.dir/CheckFunctionExists.c.o -o cmTC_25e4b 
+Undefined symbols for architecture x86_64:
+  "_setsysinfo", referenced from:
+      _main in CheckFunctionExists.c.o
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+make[1]: *** [cmTC_25e4b] Error 1
+make: *** [cmTC_25e4b/fast] Error 2
+
+
+
+Performing Other Test HAVE_SOCKLEN_T failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_4ba19/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_4ba19.dir/build.make CMakeFiles/cmTC_4ba19.dir/build
+Building C object CMakeFiles/cmTC_4ba19.dir/HDFTests.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w -DHAVE_SOCKLEN_T  -DHAVE_SYS_TIME_H -DHAVE_UNISTD_H -DHAVE_SYS_TYPES_H -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_4ba19.dir/HDFTests.c.o -MF CMakeFiles/cmTC_4ba19.dir/HDFTests.c.o.d -o CMakeFiles/cmTC_4ba19.dir/HDFTests.c.o -c /Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/hdf5/vtkhdf5/config/cmake_ext_mod/HDFTests.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/hdf5/vtkhdf5/config/cmake_ext_mod/HDFTests.c:268:13: error: use of undeclared identifier 'socklen_t'
+SIMPLE_TEST(socklen_t foo);
+            ^
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_4ba19.dir/HDFTests.c.o] Error 1
+make: *** [cmTC_4ba19/fast] Error 2
+
+
+Determining size of __float128 failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_dfc85/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_dfc85.dir/build.make CMakeFiles/cmTC_dfc85.dir/build
+Building C object CMakeFiles/cmTC_dfc85.dir/SIZEOF___FLOAT128.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_dfc85.dir/SIZEOF___FLOAT128.c.o -MF CMakeFiles/cmTC_dfc85.dir/SIZEOF___FLOAT128.c.o.d -o CMakeFiles/cmTC_dfc85.dir/SIZEOF___FLOAT128.c.o -c /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/SIZEOF___FLOAT128.c
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/SIZEOF___FLOAT128.c:30:12: error: __float128 is not supported on this target
+  ('0' + ((SIZE / 10000)%10)),
+           ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/SIZEOF___FLOAT128.c:28:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(__float128))
+                     ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/SIZEOF___FLOAT128.c:31:12: error: __float128 is not supported on this target
+  ('0' + ((SIZE / 1000)%10)),
+           ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/SIZEOF___FLOAT128.c:28:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(__float128))
+                     ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/SIZEOF___FLOAT128.c:32:12: error: __float128 is not supported on this target
+  ('0' + ((SIZE / 100)%10)),
+           ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/SIZEOF___FLOAT128.c:28:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(__float128))
+                     ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/SIZEOF___FLOAT128.c:33:12: error: __float128 is not supported on this target
+  ('0' + ((SIZE / 10)%10)),
+           ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/SIZEOF___FLOAT128.c:28:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(__float128))
+                     ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/SIZEOF___FLOAT128.c:34:12: error: __float128 is not supported on this target
+  ('0' +  (SIZE    % 10)),
+           ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/SIZEOF___FLOAT128.c:28:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(__float128))
+                     ^
+5 errors generated.
+make[1]: *** [CMakeFiles/cmTC_dfc85.dir/SIZEOF___FLOAT128.c.o] Error 1
+make: *** [cmTC_dfc85/fast] Error 2
+
+
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/SIZEOF___FLOAT128.c:
+#include <sys/types.h>
+#include <stdint.h>
+#include <stddef.h>
+#include "stdbool.h"
+
+
+#undef KEY
+#if defined(__i386)
+# define KEY '_','_','i','3','8','6'
+#elif defined(__x86_64)
+# define KEY '_','_','x','8','6','_','6','4'
+#elif defined(__PPC64__)
+# define KEY '_','_','P','P','C','6','4','_','_'
+#elif defined(__ppc64__)
+# define KEY '_','_','p','p','c','6','4','_','_'
+#elif defined(__PPC__)
+# define KEY '_','_','P','P','C','_','_'
+#elif defined(__ppc__)
+# define KEY '_','_','p','p','c','_','_'
+#elif defined(__aarch64__)
+# define KEY '_','_','a','a','r','c','h','6','4','_','_'
+#elif defined(__ARM_ARCH_7A__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','A','_','_'
+#elif defined(__ARM_ARCH_7S__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','S','_','_'
+#endif
+
+#define SIZE (sizeof(__float128))
+static char info_size[] =  {'I', 'N', 'F', 'O', ':', 's','i','z','e','[',
+  ('0' + ((SIZE / 10000)%10)),
+  ('0' + ((SIZE / 1000)%10)),
+  ('0' + ((SIZE / 100)%10)),
+  ('0' + ((SIZE / 10)%10)),
+  ('0' +  (SIZE    % 10)),
+  ']',
+#ifdef KEY
+  ' ','k','e','y','[', KEY, ']',
+#endif
+  '\0'};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_size[argc];
+  (void)argv;
+  return require;
+}
+
+
+Test H5_LDOUBLE_TO_LONG_SPECIAL Run failed with the following output and exit code:
+ Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_03d25/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_03d25.dir/build.make CMakeFiles/cmTC_03d25.dir/build
+Building C object CMakeFiles/cmTC_03d25.dir/ConversionTests.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w -DH5_LDOUBLE_TO_LONG_SPECIAL_TEST -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_03d25.dir/ConversionTests.c.o -MF CMakeFiles/cmTC_03d25.dir/ConversionTests.c.o.d -o CMakeFiles/cmTC_03d25.dir/ConversionTests.c.o -c /Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/hdf5/vtkhdf5/config/cmake/ConversionTests.c
+Linking C executable cmTC_03d25
+/Applications/CMake.app/Contents/bin/cmake -E cmake_link_script CMakeFiles/cmTC_03d25.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w -DH5_LDOUBLE_TO_LONG_SPECIAL_TEST -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cmTC_03d25.dir/ConversionTests.c.o -o cmTC_03d25 
+
+
+Test H5_LONG_TO_LDOUBLE_SPECIAL Run failed with the following output and exit code:
+ Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_25877/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_25877.dir/build.make CMakeFiles/cmTC_25877.dir/build
+Building C object CMakeFiles/cmTC_25877.dir/ConversionTests.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w -DH5_LONG_TO_LDOUBLE_SPECIAL_TEST -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_25877.dir/ConversionTests.c.o -MF CMakeFiles/cmTC_25877.dir/ConversionTests.c.o.d -o CMakeFiles/cmTC_25877.dir/ConversionTests.c.o -c /Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/hdf5/vtkhdf5/config/cmake/ConversionTests.c
+Linking C executable cmTC_25877
+/Applications/CMake.app/Contents/bin/cmake -E cmake_link_script CMakeFiles/cmTC_25877.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w -DH5_LONG_TO_LDOUBLE_SPECIAL_TEST -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cmTC_25877.dir/ConversionTests.c.o -o cmTC_25877 
+
+
+Determining if the st_blocksize exist failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_d0b9b/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_d0b9b.dir/build.make CMakeFiles/cmTC_d0b9b.dir/build
+Building C object CMakeFiles/cmTC_d0b9b.dir/CheckSymbolExists.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_d0b9b.dir/CheckSymbolExists.c.o -MF CMakeFiles/cmTC_d0b9b.dir/CheckSymbolExists.c.o.d -o CMakeFiles/cmTC_d0b9b.dir/CheckSymbolExists.c.o -c /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: error: use of undeclared identifier 'st_blocksize'
+  return ((int*)(&st_blocksize))[argc];
+                  ^
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_d0b9b.dir/CheckSymbolExists.c.o] Error 1
+make: *** [cmTC_d0b9b/fast] Error 2
+
+
+File /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <sys/stat.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef st_blocksize
+  return ((int*)(&st_blocksize))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the H5free_memory exist failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_511bb/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_511bb.dir/build.make CMakeFiles/cmTC_511bb.dir/build
+Building C object CMakeFiles/cmTC_511bb.dir/CheckSymbolExists.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_511bb.dir/CheckSymbolExists.c.o -MF CMakeFiles/cmTC_511bb.dir/CheckSymbolExists.c.o.d -o CMakeFiles/cmTC_511bb.dir/CheckSymbolExists.c.o -c /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:2:10: fatal error: 'vtk_hdf5.h' file not found
+#include <vtk_hdf5.h>
+         ^~~~~~~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_511bb.dir/CheckSymbolExists.c.o] Error 1
+make: *** [cmTC_511bb/fast] Error 2
+
+
+File /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <vtk_hdf5.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef H5free_memory
+  return ((int*)(&H5free_memory))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the H5Pset_all_coll_metadata_ops exist failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_9b1ff/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_9b1ff.dir/build.make CMakeFiles/cmTC_9b1ff.dir/build
+Building C object CMakeFiles/cmTC_9b1ff.dir/CheckSymbolExists.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_9b1ff.dir/CheckSymbolExists.c.o -MF CMakeFiles/cmTC_9b1ff.dir/CheckSymbolExists.c.o.d -o CMakeFiles/cmTC_9b1ff.dir/CheckSymbolExists.c.o -c /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:2:10: fatal error: 'vtk_hdf5.h' file not found
+#include <vtk_hdf5.h>
+         ^~~~~~~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_9b1ff.dir/CheckSymbolExists.c.o] Error 1
+make: *** [cmTC_9b1ff/fast] Error 2
+
+
+File /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <vtk_hdf5.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef H5Pset_all_coll_metadata_ops
+  return ((int*)(&H5Pset_all_coll_metadata_ops))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the H5Pset_libver_bounds exist failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_a44c1/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_a44c1.dir/build.make CMakeFiles/cmTC_a44c1.dir/build
+Building C object CMakeFiles/cmTC_a44c1.dir/CheckSymbolExists.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_a44c1.dir/CheckSymbolExists.c.o -MF CMakeFiles/cmTC_a44c1.dir/CheckSymbolExists.c.o.d -o CMakeFiles/cmTC_a44c1.dir/CheckSymbolExists.c.o -c /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:2:10: fatal error: 'vtk_hdf5.h' file not found
+#include <vtk_hdf5.h>
+         ^~~~~~~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_a44c1.dir/CheckSymbolExists.c.o] Error 1
+make: *** [cmTC_a44c1/fast] Error 2
+
+
+File /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <vtk_hdf5.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef H5Pset_libver_bounds
+  return ((int*)(&H5Pset_libver_bounds))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the HDF5_PARALLEL exist failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_09ea4/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_09ea4.dir/build.make CMakeFiles/cmTC_09ea4.dir/build
+Building C object CMakeFiles/cmTC_09ea4.dir/CheckSymbolExists.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_09ea4.dir/CheckSymbolExists.c.o -MF CMakeFiles/cmTC_09ea4.dir/CheckSymbolExists.c.o.d -o CMakeFiles/cmTC_09ea4.dir/CheckSymbolExists.c.o -c /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:2:10: fatal error: 'vtk_hdf5.h' file not found
+#include <vtk_hdf5.h>
+         ^~~~~~~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_09ea4.dir/CheckSymbolExists.c.o] Error 1
+make: *** [cmTC_09ea4/fast] Error 2
+
+
+File /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <vtk_hdf5.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef HDF5_PARALLEL
+  return ((int*)(&HDF5_PARALLEL))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the include file malloc.h exists failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_da047/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_da047.dir/build.make CMakeFiles/cmTC_da047.dir/build
+Building C object CMakeFiles/cmTC_da047.dir/CheckIncludeFile.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_da047.dir/CheckIncludeFile.c.o -MF CMakeFiles/cmTC_da047.dir/CheckIncludeFile.c.o.d -o CMakeFiles/cmTC_da047.dir/CheckIncludeFile.c.o -c /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: 'malloc.h' file not found
+#include <malloc.h>
+         ^~~~~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_da047.dir/CheckIncludeFile.c.o] Error 1
+make: *** [cmTC_da047/fast] Error 2
+
+
+
+Determining size of longlong failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_b7fc0/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_b7fc0.dir/build.make CMakeFiles/cmTC_b7fc0.dir/build
+Building C object CMakeFiles/cmTC_b7fc0.dir/HAVE_LONGLONG.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_b7fc0.dir/HAVE_LONGLONG.c.o -MF CMakeFiles/cmTC_b7fc0.dir/HAVE_LONGLONG.c.o.d -o CMakeFiles/cmTC_b7fc0.dir/HAVE_LONGLONG.c.o -c /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/HAVE_LONGLONG.c
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/HAVE_LONGLONG.c:29:12: error: use of undeclared identifier 'longlong'
+  ('0' + ((SIZE / 10000)%10)),
+           ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/HAVE_LONGLONG.c:27:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(longlong))
+                     ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/HAVE_LONGLONG.c:30:12: error: use of undeclared identifier 'longlong'
+  ('0' + ((SIZE / 1000)%10)),
+           ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/HAVE_LONGLONG.c:27:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(longlong))
+                     ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/HAVE_LONGLONG.c:31:12: error: use of undeclared identifier 'longlong'
+  ('0' + ((SIZE / 100)%10)),
+           ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/HAVE_LONGLONG.c:27:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(longlong))
+                     ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/HAVE_LONGLONG.c:32:12: error: use of undeclared identifier 'longlong'
+  ('0' + ((SIZE / 10)%10)),
+           ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/HAVE_LONGLONG.c:27:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(longlong))
+                     ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/HAVE_LONGLONG.c:33:12: error: use of undeclared identifier 'longlong'
+  ('0' +  (SIZE    % 10)),
+           ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/HAVE_LONGLONG.c:27:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(longlong))
+                     ^
+5 errors generated.
+make[1]: *** [CMakeFiles/cmTC_b7fc0.dir/HAVE_LONGLONG.c.o] Error 1
+make: *** [cmTC_b7fc0/fast] Error 2
+
+
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/HAVE_LONGLONG.c:
+#include <sys/types.h>
+#include <stdint.h>
+#include <stddef.h>
+
+
+#undef KEY
+#if defined(__i386)
+# define KEY '_','_','i','3','8','6'
+#elif defined(__x86_64)
+# define KEY '_','_','x','8','6','_','6','4'
+#elif defined(__PPC64__)
+# define KEY '_','_','P','P','C','6','4','_','_'
+#elif defined(__ppc64__)
+# define KEY '_','_','p','p','c','6','4','_','_'
+#elif defined(__PPC__)
+# define KEY '_','_','P','P','C','_','_'
+#elif defined(__ppc__)
+# define KEY '_','_','p','p','c','_','_'
+#elif defined(__aarch64__)
+# define KEY '_','_','a','a','r','c','h','6','4','_','_'
+#elif defined(__ARM_ARCH_7A__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','A','_','_'
+#elif defined(__ARM_ARCH_7S__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','S','_','_'
+#endif
+
+#define SIZE (sizeof(longlong))
+static char info_size[] =  {'I', 'N', 'F', 'O', ':', 's','i','z','e','[',
+  ('0' + ((SIZE / 10000)%10)),
+  ('0' + ((SIZE / 1000)%10)),
+  ('0' + ((SIZE / 100)%10)),
+  ('0' + ((SIZE / 10)%10)),
+  ('0' +  (SIZE    % 10)),
+  ']',
+#ifdef KEY
+  ' ','k','e','y','[', KEY, ']',
+#endif
+  '\0'};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_size[argc];
+  (void)argv;
+  return require;
+}
+
+
+Determining size of uchar failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_cd1df/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_cd1df.dir/build.make CMakeFiles/cmTC_cd1df.dir/build
+Building C object CMakeFiles/cmTC_cd1df.dir/HAVE_UCHAR.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_cd1df.dir/HAVE_UCHAR.c.o -MF CMakeFiles/cmTC_cd1df.dir/HAVE_UCHAR.c.o.d -o CMakeFiles/cmTC_cd1df.dir/HAVE_UCHAR.c.o -c /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/HAVE_UCHAR.c
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/HAVE_UCHAR.c:29:12: error: use of undeclared identifier 'uchar'
+  ('0' + ((SIZE / 10000)%10)),
+           ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/HAVE_UCHAR.c:27:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(uchar))
+                     ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/HAVE_UCHAR.c:30:12: error: use of undeclared identifier 'uchar'
+  ('0' + ((SIZE / 1000)%10)),
+           ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/HAVE_UCHAR.c:27:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(uchar))
+                     ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/HAVE_UCHAR.c:31:12: error: use of undeclared identifier 'uchar'
+  ('0' + ((SIZE / 100)%10)),
+           ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/HAVE_UCHAR.c:27:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(uchar))
+                     ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/HAVE_UCHAR.c:32:12: error: use of undeclared identifier 'uchar'
+  ('0' + ((SIZE / 10)%10)),
+           ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/HAVE_UCHAR.c:27:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(uchar))
+                     ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/HAVE_UCHAR.c:33:12: error: use of undeclared identifier 'uchar'
+  ('0' +  (SIZE    % 10)),
+           ^
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/HAVE_UCHAR.c:27:22: note: expanded from macro 'SIZE'
+#define SIZE (sizeof(uchar))
+                     ^
+5 errors generated.
+make[1]: *** [CMakeFiles/cmTC_cd1df.dir/HAVE_UCHAR.c.o] Error 1
+make: *** [cmTC_cd1df/fast] Error 2
+
+
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckTypeSize/HAVE_UCHAR.c:
+#include <sys/types.h>
+#include <stdint.h>
+#include <stddef.h>
+
+
+#undef KEY
+#if defined(__i386)
+# define KEY '_','_','i','3','8','6'
+#elif defined(__x86_64)
+# define KEY '_','_','x','8','6','_','6','4'
+#elif defined(__PPC64__)
+# define KEY '_','_','P','P','C','6','4','_','_'
+#elif defined(__ppc64__)
+# define KEY '_','_','p','p','c','6','4','_','_'
+#elif defined(__PPC__)
+# define KEY '_','_','P','P','C','_','_'
+#elif defined(__ppc__)
+# define KEY '_','_','p','p','c','_','_'
+#elif defined(__aarch64__)
+# define KEY '_','_','a','a','r','c','h','6','4','_','_'
+#elif defined(__ARM_ARCH_7A__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','A','_','_'
+#elif defined(__ARM_ARCH_7S__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','S','_','_'
+#endif
+
+#define SIZE (sizeof(uchar))
+static char info_size[] =  {'I', 'N', 'F', 'O', ':', 's','i','z','e','[',
+  ('0' + ((SIZE / 10000)%10)),
+  ('0' + ((SIZE / 1000)%10)),
+  ('0' + ((SIZE / 100)%10)),
+  ('0' + ((SIZE / 10)%10)),
+  ('0' +  (SIZE    % 10)),
+  ']',
+#ifdef KEY
+  ' ','k','e','y','[', KEY, ']',
+#endif
+  '\0'};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_size[argc];
+  (void)argv;
+  return require;
+}
+
+
+Determining if the function shl_load exists in the dld;dl failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_4489a/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_4489a.dir/build.make CMakeFiles/cmTC_4489a.dir/build
+Building C object CMakeFiles/cmTC_4489a.dir/CheckFunctionExists.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w -DCHECK_FUNCTION_EXISTS=shl_load -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_4489a.dir/CheckFunctionExists.c.o -MF CMakeFiles/cmTC_4489a.dir/CheckFunctionExists.c.o.d -o CMakeFiles/cmTC_4489a.dir/CheckFunctionExists.c.o -c /Applications/CMake.app/Contents/share/cmake-3.20/Modules/CheckFunctionExists.c
+Linking C executable cmTC_4489a
+/Applications/CMake.app/Contents/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4489a.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/cc   -w -w -DCHECK_FUNCTION_EXISTS=shl_load -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cmTC_4489a.dir/CheckFunctionExists.c.o -o cmTC_4489a  -ldld -ldl 
+ld: library not found for -ldld
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+make[1]: *** [cmTC_4489a] Error 1
+make: *** [cmTC_4489a/fast] Error 2
+
+
+
+Determining if files stdio.h;stddef.h;sys/types.h;inttypes.h;dlfcn.h;fcntl.h;memory.h;netdb.h;limits.h;sys/socket.h;netinet/in.h;sys/select.h;stdint.h;stdlib.h;string.h;strings.h;sys/stat.h;sys/time.h;time.h;unistd.h;signal.h;errno.h;ansidecl.h exist failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_cbce1/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_cbce1.dir/build.make CMakeFiles/cmTC_cbce1.dir/build
+Building C object CMakeFiles/cmTC_cbce1.dir/HAVE_ANSIDECL_H.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc -D_GNU_SOURCE  -w -w  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_cbce1.dir/HAVE_ANSIDECL_H.c.o -MF CMakeFiles/cmTC_cbce1.dir/HAVE_ANSIDECL_H.c.o.d -o CMakeFiles/cmTC_cbce1.dir/HAVE_ANSIDECL_H.c.o -c /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckIncludeFiles/HAVE_ANSIDECL_H.c
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckIncludeFiles/HAVE_ANSIDECL_H.c:24:10: fatal error: 'ansidecl.h' file not found
+#include <ansidecl.h>
+         ^~~~~~~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_cbce1.dir/HAVE_ANSIDECL_H.c.o] Error 1
+make: *** [cmTC_cbce1/fast] Error 2
+
+
+Source:
+/* */
+#include <stdio.h>
+#include <stddef.h>
+#include <sys/types.h>
+#include <inttypes.h>
+#include <dlfcn.h>
+#include <fcntl.h>
+#include <memory.h>
+#include <netdb.h>
+#include <limits.h>
+#include <sys/socket.h>
+#include <netinet/in.h>
+#include <sys/select.h>
+#include <stdint.h>
+#include <stdlib.h>
+#include <string.h>
+#include <strings.h>
+#include <sys/stat.h>
+#include <sys/time.h>
+#include <time.h>
+#include <unistd.h>
+#include <signal.h>
+#include <errno.h>
+#include <ansidecl.h>
+
+
+int main(void){return 0;}
+
+Determining if files stdio.h;stddef.h;sys/types.h;inttypes.h;dlfcn.h;fcntl.h;memory.h;netdb.h;limits.h;sys/socket.h;netinet/in.h;sys/select.h;stdint.h;stdlib.h;string.h;strings.h;sys/stat.h;sys/time.h;time.h;unistd.h;signal.h;errno.h;arpa/inet.h;arpa/nameser.h;ctype.h;dirent.h;dl.h exist failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_c9199/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_c9199.dir/build.make CMakeFiles/cmTC_c9199.dir/build
+Building C object CMakeFiles/cmTC_c9199.dir/HAVE_DL_H.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc -D_GNU_SOURCE  -w -w  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_c9199.dir/HAVE_DL_H.c.o -MF CMakeFiles/cmTC_c9199.dir/HAVE_DL_H.c.o.d -o CMakeFiles/cmTC_c9199.dir/HAVE_DL_H.c.o -c /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckIncludeFiles/HAVE_DL_H.c
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckIncludeFiles/HAVE_DL_H.c:28:10: fatal error: 'dl.h' file not found
+#include <dl.h>
+         ^~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_c9199.dir/HAVE_DL_H.c.o] Error 1
+make: *** [cmTC_c9199/fast] Error 2
+
+
+Source:
+/* */
+#include <stdio.h>
+#include <stddef.h>
+#include <sys/types.h>
+#include <inttypes.h>
+#include <dlfcn.h>
+#include <fcntl.h>
+#include <memory.h>
+#include <netdb.h>
+#include <limits.h>
+#include <sys/socket.h>
+#include <netinet/in.h>
+#include <sys/select.h>
+#include <stdint.h>
+#include <stdlib.h>
+#include <string.h>
+#include <strings.h>
+#include <sys/stat.h>
+#include <sys/time.h>
+#include <time.h>
+#include <unistd.h>
+#include <signal.h>
+#include <errno.h>
+#include <arpa/inet.h>
+#include <arpa/nameser.h>
+#include <ctype.h>
+#include <dirent.h>
+#include <dl.h>
+
+
+int main(void){return 0;}
+
+Determining if files stdio.h;stddef.h;sys/types.h;inttypes.h;dlfcn.h;fcntl.h;memory.h;netdb.h;limits.h;sys/socket.h;netinet/in.h;sys/select.h;stdint.h;stdlib.h;string.h;strings.h;sys/stat.h;sys/time.h;time.h;unistd.h;signal.h;errno.h;arpa/inet.h;arpa/nameser.h;ctype.h;dirent.h;float.h;fp_class.h exist failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_14e43/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_14e43.dir/build.make CMakeFiles/cmTC_14e43.dir/build
+Building C object CMakeFiles/cmTC_14e43.dir/HAVE_FP_CLASS_H.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc -D_GNU_SOURCE  -w -w  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_14e43.dir/HAVE_FP_CLASS_H.c.o -MF CMakeFiles/cmTC_14e43.dir/HAVE_FP_CLASS_H.c.o.d -o CMakeFiles/cmTC_14e43.dir/HAVE_FP_CLASS_H.c.o -c /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckIncludeFiles/HAVE_FP_CLASS_H.c
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckIncludeFiles/HAVE_FP_CLASS_H.c:29:10: fatal error: 'fp_class.h' file not found
+#include <fp_class.h>
+         ^~~~~~~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_14e43.dir/HAVE_FP_CLASS_H.c.o] Error 1
+make: *** [cmTC_14e43/fast] Error 2
+
+
+Source:
+/* */
+#include <stdio.h>
+#include <stddef.h>
+#include <sys/types.h>
+#include <inttypes.h>
+#include <dlfcn.h>
+#include <fcntl.h>
+#include <memory.h>
+#include <netdb.h>
+#include <limits.h>
+#include <sys/socket.h>
+#include <netinet/in.h>
+#include <sys/select.h>
+#include <stdint.h>
+#include <stdlib.h>
+#include <string.h>
+#include <strings.h>
+#include <sys/stat.h>
+#include <sys/time.h>
+#include <time.h>
+#include <unistd.h>
+#include <signal.h>
+#include <errno.h>
+#include <arpa/inet.h>
+#include <arpa/nameser.h>
+#include <ctype.h>
+#include <dirent.h>
+#include <float.h>
+#include <fp_class.h>
+
+
+int main(void){return 0;}
+
+Determining if files stdio.h;stddef.h;sys/types.h;inttypes.h;dlfcn.h;fcntl.h;memory.h;netdb.h;limits.h;sys/socket.h;netinet/in.h;sys/select.h;stdint.h;stdlib.h;string.h;strings.h;sys/stat.h;sys/time.h;time.h;unistd.h;signal.h;errno.h;arpa/inet.h;arpa/nameser.h;ctype.h;dirent.h;float.h;ieeefp.h exist failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_8d664/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_8d664.dir/build.make CMakeFiles/cmTC_8d664.dir/build
+Building C object CMakeFiles/cmTC_8d664.dir/HAVE_IEEEFP_H.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc -D_GNU_SOURCE  -w -w  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_8d664.dir/HAVE_IEEEFP_H.c.o -MF CMakeFiles/cmTC_8d664.dir/HAVE_IEEEFP_H.c.o.d -o CMakeFiles/cmTC_8d664.dir/HAVE_IEEEFP_H.c.o -c /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckIncludeFiles/HAVE_IEEEFP_H.c
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckIncludeFiles/HAVE_IEEEFP_H.c:29:10: fatal error: 'ieeefp.h' file not found
+#include <ieeefp.h>
+         ^~~~~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_8d664.dir/HAVE_IEEEFP_H.c.o] Error 1
+make: *** [cmTC_8d664/fast] Error 2
+
+
+Source:
+/* */
+#include <stdio.h>
+#include <stddef.h>
+#include <sys/types.h>
+#include <inttypes.h>
+#include <dlfcn.h>
+#include <fcntl.h>
+#include <memory.h>
+#include <netdb.h>
+#include <limits.h>
+#include <sys/socket.h>
+#include <netinet/in.h>
+#include <sys/select.h>
+#include <stdint.h>
+#include <stdlib.h>
+#include <string.h>
+#include <strings.h>
+#include <sys/stat.h>
+#include <sys/time.h>
+#include <time.h>
+#include <unistd.h>
+#include <signal.h>
+#include <errno.h>
+#include <arpa/inet.h>
+#include <arpa/nameser.h>
+#include <ctype.h>
+#include <dirent.h>
+#include <float.h>
+#include <ieeefp.h>
+
+
+int main(void){return 0;}
+
+Determining if files stdio.h;stddef.h;sys/types.h;inttypes.h;dlfcn.h;fcntl.h;memory.h;netdb.h;limits.h;sys/socket.h;netinet/in.h;sys/select.h;stdint.h;stdlib.h;string.h;strings.h;sys/stat.h;sys/time.h;time.h;unistd.h;signal.h;errno.h;arpa/inet.h;arpa/nameser.h;ctype.h;dirent.h;float.h;math.h;nan.h exist failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_3eea0/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_3eea0.dir/build.make CMakeFiles/cmTC_3eea0.dir/build
+Building C object CMakeFiles/cmTC_3eea0.dir/HAVE_NAN_H.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc -D_GNU_SOURCE  -w -w  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_3eea0.dir/HAVE_NAN_H.c.o -MF CMakeFiles/cmTC_3eea0.dir/HAVE_NAN_H.c.o.d -o CMakeFiles/cmTC_3eea0.dir/HAVE_NAN_H.c.o -c /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckIncludeFiles/HAVE_NAN_H.c
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckIncludeFiles/HAVE_NAN_H.c:30:10: fatal error: 'nan.h' file not found
+#include <nan.h>
+         ^~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_3eea0.dir/HAVE_NAN_H.c.o] Error 1
+make: *** [cmTC_3eea0/fast] Error 2
+
+
+Source:
+/* */
+#include <stdio.h>
+#include <stddef.h>
+#include <sys/types.h>
+#include <inttypes.h>
+#include <dlfcn.h>
+#include <fcntl.h>
+#include <memory.h>
+#include <netdb.h>
+#include <limits.h>
+#include <sys/socket.h>
+#include <netinet/in.h>
+#include <sys/select.h>
+#include <stdint.h>
+#include <stdlib.h>
+#include <string.h>
+#include <strings.h>
+#include <sys/stat.h>
+#include <sys/time.h>
+#include <time.h>
+#include <unistd.h>
+#include <signal.h>
+#include <errno.h>
+#include <arpa/inet.h>
+#include <arpa/nameser.h>
+#include <ctype.h>
+#include <dirent.h>
+#include <float.h>
+#include <math.h>
+#include <nan.h>
+
+
+int main(void){return 0;}
+
+Determining if files stdio.h;stddef.h;sys/types.h;inttypes.h;dlfcn.h;fcntl.h;memory.h;netdb.h;limits.h;sys/socket.h;netinet/in.h;sys/select.h;stdint.h;stdlib.h;string.h;strings.h;sys/stat.h;sys/time.h;time.h;unistd.h;signal.h;errno.h;arpa/inet.h;arpa/nameser.h;ctype.h;dirent.h;float.h;math.h;ndir.h exist failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_66c18/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_66c18.dir/build.make CMakeFiles/cmTC_66c18.dir/build
+Building C object CMakeFiles/cmTC_66c18.dir/HAVE_NDIR_H.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc -D_GNU_SOURCE  -w -w  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_66c18.dir/HAVE_NDIR_H.c.o -MF CMakeFiles/cmTC_66c18.dir/HAVE_NDIR_H.c.o.d -o CMakeFiles/cmTC_66c18.dir/HAVE_NDIR_H.c.o -c /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckIncludeFiles/HAVE_NDIR_H.c
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CheckIncludeFiles/HAVE_NDIR_H.c:30:10: fatal error: 'ndir.h' file not found
+#include <ndir.h>
+         ^~~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_66c18.dir/HAVE_NDIR_H.c.o] Error 1
+make: *** [cmTC_66c18/fast] Error 2
+
+
+Source:
+/* */
+#include <stdio.h>
+#include <stddef.h>
+#include <sys/types.h>
+#include <inttypes.h>
+#include <dlfcn.h>
+#include <fcntl.h>
+#include <memory.h>
+#include <netdb.h>
+#include <limits.h>
+#include <sys/socket.h>
+#include <netinet/in.h>
+#include <sys/select.h>
+#include <stdint.h>
+#include <stdlib.h>
+#include <string.h>
+#include <strings.h>
+#include <sys/stat.h>
+#include <sys/time.h>
+#include <time.h>
+#include <unistd.h>
+#include <signal.h>
+#include <errno.h>
+#include <arpa/inet.h>
+#include <arpa/nameser.h>
+#include <ctype.h>
+#include <dirent.h>
+#include <float.h>
+#include <math.h>
+#include <ndir.h>
+
+
+int main(void){return 0;}
+
+Determining if the fpclass exist failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_1e11f/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_1e11f.dir/build.make CMakeFiles/cmTC_1e11f.dir/build
+Building C object CMakeFiles/cmTC_1e11f.dir/CheckSymbolExists.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc -D_GNU_SOURCE  -w -w  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_1e11f.dir/CheckSymbolExists.c.o -MF CMakeFiles/cmTC_1e11f.dir/CheckSymbolExists.c.o.d -o CMakeFiles/cmTC_1e11f.dir/CheckSymbolExists.c.o -c /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:40:19: error: use of undeclared identifier 'fpclass'
+  return ((int*)(&fpclass))[argc];
+                  ^
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_1e11f.dir/CheckSymbolExists.c.o] Error 1
+make: *** [cmTC_1e11f/fast] Error 2
+
+
+File /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdio.h>
+#include <stddef.h>
+#include <sys/types.h>
+#include <inttypes.h>
+#include <dlfcn.h>
+#include <fcntl.h>
+#include <memory.h>
+#include <netdb.h>
+#include <limits.h>
+#include <sys/socket.h>
+#include <netinet/in.h>
+#include <sys/select.h>
+#include <stdint.h>
+#include <stdlib.h>
+#include <string.h>
+#include <strings.h>
+#include <sys/stat.h>
+#include <sys/time.h>
+#include <time.h>
+#include <unistd.h>
+#include <signal.h>
+#include <errno.h>
+#include <arpa/inet.h>
+#include <arpa/nameser.h>
+#include <ctype.h>
+#include <dirent.h>
+#include <float.h>
+#include <math.h>
+#include <pthread.h>
+#include <resolv.h>
+#include <stdarg.h>
+#include <sys/mman.h>
+#include <sys/timeb.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef fpclass
+  return ((int*)(&fpclass))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the fp_class exist failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_2e5e3/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_2e5e3.dir/build.make CMakeFiles/cmTC_2e5e3.dir/build
+Building C object CMakeFiles/cmTC_2e5e3.dir/CheckSymbolExists.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc -D_GNU_SOURCE  -w -w  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_2e5e3.dir/CheckSymbolExists.c.o -MF CMakeFiles/cmTC_2e5e3.dir/CheckSymbolExists.c.o.d -o CMakeFiles/cmTC_2e5e3.dir/CheckSymbolExists.c.o -c /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:40:19: error: use of undeclared identifier 'fp_class'
+  return ((int*)(&fp_class))[argc];
+                  ^
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_2e5e3.dir/CheckSymbolExists.c.o] Error 1
+make: *** [cmTC_2e5e3/fast] Error 2
+
+
+File /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdio.h>
+#include <stddef.h>
+#include <sys/types.h>
+#include <inttypes.h>
+#include <dlfcn.h>
+#include <fcntl.h>
+#include <memory.h>
+#include <netdb.h>
+#include <limits.h>
+#include <sys/socket.h>
+#include <netinet/in.h>
+#include <sys/select.h>
+#include <stdint.h>
+#include <stdlib.h>
+#include <string.h>
+#include <strings.h>
+#include <sys/stat.h>
+#include <sys/time.h>
+#include <time.h>
+#include <unistd.h>
+#include <signal.h>
+#include <errno.h>
+#include <arpa/inet.h>
+#include <arpa/nameser.h>
+#include <ctype.h>
+#include <dirent.h>
+#include <float.h>
+#include <math.h>
+#include <pthread.h>
+#include <resolv.h>
+#include <stdarg.h>
+#include <sys/mman.h>
+#include <sys/timeb.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef fp_class
+  return ((int*)(&fp_class))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the _stat exist failed with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_9cfff/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_9cfff.dir/build.make CMakeFiles/cmTC_9cfff.dir/build
+Building C object CMakeFiles/cmTC_9cfff.dir/CheckSymbolExists.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc -D_GNU_SOURCE  -w -w  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_9cfff.dir/CheckSymbolExists.c.o -MF CMakeFiles/cmTC_9cfff.dir/CheckSymbolExists.c.o.d -o CMakeFiles/cmTC_9cfff.dir/CheckSymbolExists.c.o -c /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:40:19: error: use of undeclared identifier '_stat'
+  return ((int*)(&_stat))[argc];
+                  ^
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_9cfff.dir/CheckSymbolExists.c.o] Error 1
+make: *** [cmTC_9cfff/fast] Error 2
+
+
+File /Users/biyeuphuong/Desktop/CIS541/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdio.h>
+#include <stddef.h>
+#include <sys/types.h>
+#include <inttypes.h>
+#include <dlfcn.h>
+#include <fcntl.h>
+#include <memory.h>
+#include <netdb.h>
+#include <limits.h>
+#include <sys/socket.h>
+#include <netinet/in.h>
+#include <sys/select.h>
+#include <stdint.h>
+#include <stdlib.h>
+#include <string.h>
+#include <strings.h>
+#include <sys/stat.h>
+#include <sys/time.h>
+#include <time.h>
+#include <unistd.h>
+#include <signal.h>
+#include <errno.h>
+#include <arpa/inet.h>
+#include <arpa/nameser.h>
+#include <ctype.h>
+#include <dirent.h>
+#include <float.h>
+#include <math.h>
+#include <pthread.h>
+#include <resolv.h>
+#include <stdarg.h>
+#include <sys/mman.h>
+#include <sys/timeb.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef _stat
+  return ((int*)(&_stat))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Checking for DIR in sys/ndir.h failed to compile with the following output:
+Change Dir: /Users/biyeuphuong/Desktop/CIS541/build/ThirdParty/libxml2/vtklibxml2/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_b69f1/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_b69f1.dir/build.make CMakeFiles/cmTC_b69f1.dir/build
+Building C object CMakeFiles/cmTC_b69f1.dir/platformTestsC.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc -DTEST_HAVE_SYS_NDIR_H  -w -w  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -MD -MT CMakeFiles/cmTC_b69f1.dir/platformTestsC.c.o -MF CMakeFiles/cmTC_b69f1.dir/platformTestsC.c.o.d -o CMakeFiles/cmTC_b69f1.dir/platformTestsC.c.o -c /Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/platformTestsC.c
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/libxml2/vtklibxml2/platformTestsC.c:82:10: fatal error: 'sys/ndir.h' file not found
+#include <sys/ndir.h>
+         ^~~~~~~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_b69f1.dir/platformTestsC.c.o] Error 1
+make: *** [cmTC_b69f1/fast] Error 2
+
+
+

@@ -1,0 +1,166 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkCardinalSpline.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkKochanekSpline.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricBoy.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricConicSpiral.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricCrossCap.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricDini.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricEllipsoid.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricEnneper.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricFigure8Klein.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricFunction.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricKlein.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricMobius.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricRandomHills.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricRoman.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricSpline.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricSuperEllipsoid.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricSuperToroid.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricTorus.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricKuen.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricPseudosphere.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricBohemianDome.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricHenneberg.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricCatalanMinimal.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricBour.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricPluckerConoid.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkCardinalSpline.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkKochanekSpline.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricBoy.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricConicSpiral.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricCrossCap.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricDini.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricEllipsoid.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricEnneper.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricFigure8Klein.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricFunction.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricKlein.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricMobius.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricRandomHills.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricRoman.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricSpline.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricSuperEllipsoid.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricSuperToroid.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricTorus.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricKuen.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricPseudosphere.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricBohemianDome.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricHenneberg.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricCatalanMinimal.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricBour.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Common/ComputationalGeometry/vtkParametricPluckerConoid.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/build/Common/ComputationalGeometry/vtkCommonComputationalGeometryModule.h"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"vtkCommonComputationalGeometry"
+		],
+		"name" : "vtkCommonComputationalGeometry"
+	}
+}

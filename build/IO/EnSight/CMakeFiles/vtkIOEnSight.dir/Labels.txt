@@ -1,0 +1,18 @@
+# Target labels
+ vtkIOEnSight
+# Source files and their labels
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/EnSight/vtkEnSight6BinaryReader.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/EnSight/vtkEnSight6Reader.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/EnSight/vtkEnSightGoldBinaryReader.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/EnSight/vtkEnSightGoldReader.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/EnSight/vtkEnSightMasterServerReader.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/EnSight/vtkEnSightReader.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/EnSight/vtkGenericEnSightReader.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/EnSight/vtkEnSight6BinaryReader.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/EnSight/vtkEnSight6Reader.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/EnSight/vtkEnSightGoldBinaryReader.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/EnSight/vtkEnSightGoldReader.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/EnSight/vtkEnSightMasterServerReader.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/EnSight/vtkEnSightReader.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/EnSight/vtkGenericEnSightReader.h
+/Users/biyeuphuong/Desktop/CIS541/build/IO/EnSight/vtkIOEnSightModule.h

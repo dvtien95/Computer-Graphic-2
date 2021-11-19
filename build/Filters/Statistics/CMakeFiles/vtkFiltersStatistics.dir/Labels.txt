@@ -1,0 +1,38 @@
+# Target labels
+ vtkFiltersStatistics
+# Source files and their labels
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Statistics/vtkAutoCorrelativeStatistics.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Statistics/vtkBivariateLinearTableThreshold.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Statistics/vtkComputeQuartiles.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Statistics/vtkContingencyStatistics.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Statistics/vtkCorrelativeStatistics.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Statistics/vtkDescriptiveStatistics.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Statistics/vtkHighestDensityRegionsStatistics.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Statistics/vtkExtractFunctionalBagPlot.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Statistics/vtkKMeansDistanceFunctorCalculator.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Statistics/vtkKMeansDistanceFunctor.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Statistics/vtkKMeansStatistics.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Statistics/vtkMultiCorrelativeStatistics.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Statistics/vtkOrderStatistics.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Statistics/vtkPCAStatistics.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Statistics/vtkStatisticsAlgorithm.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Statistics/vtkStrahlerMetric.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Statistics/vtkStreamingStatistics.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Statistics/vtkAutoCorrelativeStatistics.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Statistics/vtkBivariateLinearTableThreshold.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Statistics/vtkComputeQuartiles.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Statistics/vtkContingencyStatistics.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Statistics/vtkCorrelativeStatistics.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Statistics/vtkDescriptiveStatistics.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Statistics/vtkHighestDensityRegionsStatistics.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Statistics/vtkExtractFunctionalBagPlot.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Statistics/vtkKMeansDistanceFunctorCalculator.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Statistics/vtkKMeansDistanceFunctor.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Statistics/vtkKMeansStatistics.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Statistics/vtkMultiCorrelativeStatistics.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Statistics/vtkOrderStatistics.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Statistics/vtkPCAStatistics.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Statistics/vtkStatisticsAlgorithm.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Statistics/vtkStrahlerMetric.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Statistics/vtkStreamingStatistics.h
+/Users/biyeuphuong/Desktop/CIS541/build/Filters/Statistics/vtkFiltersStatisticsModule.h

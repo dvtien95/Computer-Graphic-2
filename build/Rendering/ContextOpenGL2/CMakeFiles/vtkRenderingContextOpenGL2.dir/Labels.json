@@ -1,0 +1,52 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/ContextOpenGL2/vtkOpenGLContextActor.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/ContextOpenGL2/vtkOpenGLContextBufferId.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/ContextOpenGL2/vtkOpenGLContextDevice2D.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/ContextOpenGL2/vtkOpenGLContextDevice3D.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/ContextOpenGL2/vtkOpenGLPropItem.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/build/Rendering/ContextOpenGL2/vtkRenderingContextOpenGL2ObjectFactory.cxx"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/ContextOpenGL2/vtkOpenGLContextActor.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/ContextOpenGL2/vtkOpenGLContextBufferId.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/ContextOpenGL2/vtkOpenGLContextDevice2D.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/ContextOpenGL2/vtkOpenGLContextDevice3D.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Rendering/ContextOpenGL2/vtkOpenGLPropItem.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/build/Rendering/ContextOpenGL2/vtkRenderingContextOpenGL2ObjectFactory.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/build/Rendering/ContextOpenGL2/vtkRenderingContextOpenGL2Module.h"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"vtkRenderingContextOpenGL2"
+		],
+		"name" : "vtkRenderingContextOpenGL2"
+	}
+}

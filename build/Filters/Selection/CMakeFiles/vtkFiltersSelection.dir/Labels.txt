@@ -1,0 +1,10 @@
+# Target labels
+ vtkFiltersSelection
+# Source files and their labels
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Selection/vtkKdTreeSelector.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Selection/vtkLinearSelector.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Selection/vtkCellDistanceSelector.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Selection/vtkKdTreeSelector.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Selection/vtkLinearSelector.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Filters/Selection/vtkCellDistanceSelector.h
+/Users/biyeuphuong/Desktop/CIS541/build/Filters/Selection/vtkFiltersSelectionModule.h

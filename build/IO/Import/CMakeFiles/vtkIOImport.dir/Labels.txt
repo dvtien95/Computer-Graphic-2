@@ -1,0 +1,15 @@
+# Target labels
+ vtkIOImport
+# Source files and their labels
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/Import/vtk3DSImporter.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/Import/vtkImporter.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/Import/vtkVRMLImporter.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/Import/vtkOBJImporter.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/Import/vtkOBJImporterInternals.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/Import/vtk3DS.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/Import/vtk3DSImporter.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/Import/vtkImporter.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/Import/vtkVRMLImporter.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/Import/vtkOBJImporter.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/IO/Import/vtkOBJImporterInternals.h
+/Users/biyeuphuong/Desktop/CIS541/build/IO/Import/vtkIOImportModule.h

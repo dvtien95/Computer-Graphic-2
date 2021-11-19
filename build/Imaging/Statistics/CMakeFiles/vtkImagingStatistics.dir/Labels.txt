@@ -1,0 +1,10 @@
+# Target labels
+ vtkImagingStatistics
+# Source files and their labels
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Statistics/vtkImageAccumulate.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Statistics/vtkImageHistogram.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Statistics/vtkImageHistogramStatistics.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Statistics/vtkImageAccumulate.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Statistics/vtkImageHistogram.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Statistics/vtkImageHistogramStatistics.h
+/Users/biyeuphuong/Desktop/CIS541/build/Imaging/Statistics/vtkImagingStatisticsModule.h

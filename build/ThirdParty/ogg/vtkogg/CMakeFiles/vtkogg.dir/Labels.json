@@ -1,0 +1,34 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/ogg/vtkogg/src/bitwise.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/ogg/vtkogg/src/framing.c"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/build/ThirdParty/ogg/vtkogg/include/ogg/config_types.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/ogg/vtkogg/include/ogg/ogg.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/ogg/vtkogg/include/ogg/os_types.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/ThirdParty/ogg/vtkogg/include/ogg/vtk_ogg_mangle.h"
+		},
+		{
+			"file" : "/Users/biyeuphuong/Desktop/CIS541/build/ThirdParty/ogg/vtkogg/include/ogg/vtkogg_export.h"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"vtkogg"
+		],
+		"name" : "vtkogg"
+	}
+}

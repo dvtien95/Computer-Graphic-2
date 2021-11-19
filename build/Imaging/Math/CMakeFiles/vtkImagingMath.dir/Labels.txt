@@ -1,0 +1,20 @@
+# Target labels
+ vtkImagingMath
+# Source files and their labels
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Math/vtkImageDivergence.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Math/vtkImageDotProduct.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Math/vtkImageLogarithmicScale.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Math/vtkImageLogic.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Math/vtkImageMagnitude.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Math/vtkImageMaskBits.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Math/vtkImageMathematics.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Math/vtkImageWeightedSum.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Math/vtkImageDivergence.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Math/vtkImageDotProduct.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Math/vtkImageLogarithmicScale.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Math/vtkImageLogic.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Math/vtkImageMagnitude.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Math/vtkImageMaskBits.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Math/vtkImageMathematics.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Math/vtkImageWeightedSum.h
+/Users/biyeuphuong/Desktop/CIS541/build/Imaging/Math/vtkImagingMathModule.h

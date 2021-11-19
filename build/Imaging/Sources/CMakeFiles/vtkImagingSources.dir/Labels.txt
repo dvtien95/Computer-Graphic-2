@@ -1,0 +1,18 @@
+# Target labels
+ vtkImagingSources
+# Source files and their labels
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Sources/vtkImageCanvasSource2D.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Sources/vtkImageEllipsoidSource.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Sources/vtkImageGaussianSource.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Sources/vtkImageGridSource.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Sources/vtkImageMandelbrotSource.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Sources/vtkImageNoiseSource.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Sources/vtkImageSinusoidSource.cxx
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Sources/vtkImageCanvasSource2D.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Sources/vtkImageEllipsoidSource.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Sources/vtkImageGaussianSource.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Sources/vtkImageGridSource.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Sources/vtkImageMandelbrotSource.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Sources/vtkImageNoiseSource.h
+/Users/biyeuphuong/Desktop/CIS541/VTK-8.2.0/Imaging/Sources/vtkImageSinusoidSource.h
+/Users/biyeuphuong/Desktop/CIS541/build/Imaging/Sources/vtkImagingSourcesModule.h
